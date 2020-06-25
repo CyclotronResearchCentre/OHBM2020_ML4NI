@@ -1,5 +1,7 @@
-# Machine learning for neuroimaging @OHBM2020
+# Machine learning for neuroimaging
 ## Learn the basics before going deeper.
+
+OHBM2020 educational course "Machine learning for neuroimaging, learn the basics before going deeper".
 
 ### Course description
 
