@@ -1,5 +1,5 @@
-# **OHBM2020 Machine learning for neuroimaging,** 
-## learn the basics before going deeper.
+# **Machine learning for neuroimaging @ OHBM2020** 
+# learn the basics before going deeper.
 
 | Speakers & talk order       | Title / Abstract                                             |
 | --- | ----- |
