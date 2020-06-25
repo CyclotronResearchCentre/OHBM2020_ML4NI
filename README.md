@@ -1,8 +1,8 @@
-# **Machine learning for neuroimaging @OHBM2020** 
-# learn the basics before going deeper.
+## **Machine learning for neuroimaging @OHBM2020** 
+## Learn the basics before going deeper.
 
 ---
-## Course description
+### Course description
 
 The application of machine learning techniques to neuroimaging data has increased substantially in the last years, from classic "support vector machines" to more recent "deep learning", leading to a large body of publications. 
 
@@ -12,19 +12,19 @@ Model validation and statistical inference are particularly crucial as these not
 
 At the end of the course, the neuroscientist should have a global understanding of machine learning approaches, how to apply these tools to his/her own data to address new questions in a rigorous way, and how to interpret the outcomes of these analyses as well as how to draw reliable conclusions.
 
-### Course objectives
+#### Course objectives
 
 The course is organized such that the participant acquire knowledge about
 - the various machine learning tools available and how to make rigorous statistical inferences with these;
 - the “Do's and Don’ts” of the technique in neuroimaging, their limitations, and how to interpret their results depending on their question of interest;
 - the application of these methods on different modalities such as fMRI and sMRI, as well as various applications in cognitive and clinical neuroscience.
 
-### Target audience
+#### Target audience
 
 The target audience would consist of neuroscientists with intermediate to advanced knowledge of standard neuroimaging analysis techniques but with no or intermediate knowledge of pattern recognition/machine learning techniques. Researchers with a methodological or ‘machine learning’ background could also benefit from the course by being exposed to specificities of neuroimaging data and the questions typically asked in neuroimaging applications.
 
 ---
-## Course content
+### Course content
 
 The course is composed of 10 complementary lectures:
 
@@ -69,12 +69,12 @@ The course is composed of 10 complementary lectures:
   by *Pamela Douglas*
   
 - **From machine learning to deep learning, how do we ensure objective and reproducible evaluations?** <br/>
-  Neuroimaging data have been increasingly used to characterize brain diseases, such as Alzheimer’s disease, schizophrenia or autism, by means of machine learning (ML) methods, offering promising tools for individualized diagnosis and prognosis. A large number of studies have proposed to use pre-extracted features from dedicated image processing pipelines followed by different types of classifiers, such as support vector machines or random forests. Recently, deep learning (DL), in which features are automatically learned by the model, has been proposed to assist diagnosis. <br />The aim of this lecture is to teach how to design and validate pattern recognition for clinical applications in brain diseases. The course will i) explain how to pre-process neuroimages and extract features, ii) describe several ML and DL classification strategies, and iii) detail good practices for rigorous, transparent and reproducible evaluation on clinical neuroimaging databases. |
+  Neuroimaging data have been increasingly used to characterize brain diseases, such as Alzheimer’s disease, schizophrenia or autism, by means of machine learning (ML) methods, offering promising tools for individualized diagnosis and prognosis. A large number of studies have proposed to use pre-extracted features from dedicated image processing pipelines followed by different types of classifiers, such as support vector machines or random forests. Recently, deep learning (DL), in which features are automatically learned by the model, has been proposed to assist diagnosis. <br />The aim of this lecture is to teach how to design and validate pattern recognition for clinical applications in brain diseases. The course will i) explain how to pre-process neuroimages and extract features, ii) describe several ML and DL classification strategies, and iii) detail good practices for rigorous, transparent and reproducible evaluation on clinical neuroimaging databases.
 
-  by *Ninon Burgos$
+  by *Ninon Burgos*
    
 - **Why is this educational course not fully devoted to deep learning?** <br/>
-  Despite the resounding success of deep learning in many fields, recent studies have suggested that for certain applications, classical machine learning algorithms might achieve comparable performance at significantly lower computational cost. In this educational course, we will start by discussing such examples, including earthquake prediction and our own work on functional connectivity prediction of behavior. Along the way, we will also discuss various issues that might arise from comparing different algorithms and I will also speculate about various classes of neuroimaging problems, in which DNNs might excel in relative to classical approaches. |
+  Despite the resounding success of deep learning in many fields, recent studies have suggested that for certain applications, classical machine learning algorithms might achieve comparable performance at significantly lower computational cost. In this educational course, we will start by discussing such examples, including earthquake prediction and our own work on functional connectivity prediction of behavior. Along the way, we will also discuss various issues that might arise from comparing different algorithms and I will also speculate about various classes of neuroimaging problems, in which DNNs might excel in relative to classical approaches.
 
   by *Thomas Yeo*
 
