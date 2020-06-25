@@ -2,15 +2,38 @@
 # learn the basics before going deeper.
 
 ---
+## Course description
 
-### Course content
+The application of machine learning techniques to neuroimaging data has increased substantially in the last years, from classic "support vector machines" to more recent "deep learning", leading to a large body of publications. 
+
+Over the years the “machine learning” field (at the border of statistics and engineering) has delivered families of tools, which have been adapted to investigate cognitive and clinical neuroscience questions. Depending on the research question asked, experimental design and data modality, it is important that the experimenter knows which tools to use and how to draw reliable conclusions. The course will focus on subject and/or patient predictions (for cognitive and clinical applications), including classification and regression models. The usual functional and structural MRI modalities will be covered but the presented approaches could also be applied on other types of data. 
+
+Model validation and statistical inference are particularly crucial as these notions somewhat differ from the standard univariate statistics usually applied to analyse neuroimaging data (e.g. General Linear Model) and should thus be specifically addressed. After introducing the basic foundations of machine learning in neuroimaging, the remaining talks will tackle more advanced methodological points, such as classic machine learning, unsupervised learning and deep learning applications pertaining to neuroimaging. 
+
+At the end of the course, the neuroscientist should have a global understanding of machine learning approaches, how to apply these tools to his/her own data to address new questions in a rigorous way, and how to interpret the outcomes of these analyses as well as how to draw reliable conclusions.
+
+### Course objectives
+
+The course is organized such that the participant acquire knowledge about
+- the various machine learning tools available and how to make rigorous statistical inferences with these;
+- the “Do's and Don’ts” of the technique in neuroimaging, their limitations, and how to interpret their results depending on their question of interest;
+- the application of these methods on different modalities such as fMRI and sMRI, as well as various applications in cognitive and clinical neuroscience.
+
+### Target audience
+
+The target audience would consist of neuroscientists with intermediate to advanced knowledge of standard neuroimaging analysis techniques but with no or intermediate knowledge of pattern recognition/machine learning techniques. Researchers with a methodological or ‘machine learning’ background could also benefit from the course by being exposed to specificities of neuroimaging data and the questions typically asked in neuroimaging applications.
+
+---
+## Course content
+
+The course is composed of 10 complementary lectures:
 
 - **Machine learning in neuroimaging, what are we talking about?**  <br/>
   This introductory lecture describes the basic principles of machine learning (ML) and how these tools can be applied to neuroimaging data. These will focus on label or parameter prediction, i.e. classification or regression models, of subjects' whole brain images. First these approaches will be compared to standard univariate GLM approaches. Then data representation, as samples and sets of features, and the principles of supervised & unsupervised machine learning are introduced. The talk will also introduce standard ML approaches, e.g. kernel methods, and how their performance is assessed. The issues of generalizability and inference are central: how well can we predict unseen data? and are we performing above chance level? <br/> Most of these points will be further developed in the following talks. 
   
   by *Christophe Phillips*
   
--  **Cross-validation, how do we assess predictive performance?** <br/>
+- **Cross-validation, how do we assess predictive performance?** <br/>
   Decoding calls for measuring the predictive power of a decoder. It may be used to tune parameters of the decoder to improve it. Cross-validation is the central tool for these purposes. This tutorial will go over cross-validation for decoding and address a few fundamental questions: <br/>o What exactly is cross-validation? Why do we need it in our machine learning studies? <br/>o What are the different types of CV, and how do they compare to each other? <br/>o How to measure and compare predictive performance, and how not to? <br/>o What are the key terminologies one needs to be aware of (overfitting, different performance metrics, sources of bias, etc.)? <br/> The tutorial will also be interactive and participative wherever possible. 
   
   by *Pradeep Reddy Raamana*
@@ -30,8 +53,8 @@
   
   by *Emanuele Olivetti*
   
--  **What makes a good multivariate model for fMRI-based decoding?**   <br/>
-  Standard multivariate analyses yield two pieces of information: what  experimental manipulations are indeed reflected in brain activity, and with due caution, a characterization of the brain activity patterns  associated with these manipulations.  Performing some inference with pattern analysis model raises some caveats, in particular regarding  the reliability of the multivariate patterns obtained in this framework. <br/>In this talk, we will discuss in depth the differences between classical univariate and multivariate analyses, and analyze the pros and cons of either approach. We will describe the criteria that can be used to assess the classifiers in terms of accuracy, interpretability and stability.  We will then describe cheap, yet effective ways to improve the quality of the models using fast clustering schemes for  spatial regularization and model averaging. <br/>We will illustrate these concepts on datasets and accessible to the audience as Jupyter notebooks.   
+- **What makes a good multivariate model for fMRI-based decoding?**   <br/>
+  Standard multivariate analyses yield two pieces of information: what  experimental manipulations are indeed reflected in brain activity, and with due caution, a characterization of the brain activity patterns  associated with these manipulations.  Performing some inference with pattern analysis model raises some caveats, in particular regarding  the reliability of the multivariate patterns obtained in this framework. <br/>In this talk, we will discuss in depth the differences between classical univariate and multivariate analyses, and analyze the pros and cons of either approach. We will describe the criteria that can be used to assess the classifiers in terms of accuracy, interpretability and stability.  We will then describe cheap, yet effective ways to improve the quality of the models using fast clustering schemes for  spatial regularization and model averaging. <br/>We will illustrate these concepts on datasets and accessible to the audience as Jupyter notebooks. 
   
   by *Bertrand Thirion*
 
@@ -54,6 +77,7 @@
   Despite the resounding success of deep learning in many fields, recent studies have suggested that for certain applications, classical machine learning algorithms might achieve comparable performance at significantly lower computational cost. In this educational course, we will start by discussing such examples, including earthquake prediction and our own work on functional connectivity prediction of behavior. Along the way, we will also discuss various issues that might arise from comparing different algorithms and I will also speculate about various classes of neuroimaging problems, in which DNNs might excel in relative to classical approaches. |
 
   by *Thomas Yeo*
+
 
 
 
