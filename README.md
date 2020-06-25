@@ -1,4 +1,3 @@
----
 ### Course description
 
 The application of machine learning techniques to neuroimaging data has increased substantially in the last years, from classic "support vector machines" to more recent "deep learning", leading to a large body of publications. 
