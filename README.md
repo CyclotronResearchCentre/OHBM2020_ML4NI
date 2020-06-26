@@ -29,8 +29,8 @@ The target audience would consist of neuroscientists with intermediate to advanc
 
 The course is composed of 10 complementary lectures:
 
-| Title                                                        | Speaker                |
-| ------------------------------------------------------------ | ---------------------- |
+| **Title**                                                    | **Speaker**            |
+| :------------------------------------------------------------ | :---------------------- |
 | Machine learning in neuroimaging, what are we talking about? | Christophe Phillips    |
 | Cross-validation, how do we assess predictive performance?   | Pradeep Reddy Raamana  |
 | Confounding variables, how do we account for them?           | Janaina Mourao-Miranda |
@@ -40,7 +40,7 @@ The course is composed of 10 complementary lectures:
 | Undefined labels? Try unsupervised approaches!               | Valeria Kebets         |
 | Deep Learning for Neuroimaging: What are we talking about?   | Pamela Douglas         |
 | From machine learning to deep learning, how do we ensure objective and reproducible evaluations? | Ninon Burgos           |
-| #8594; "Why is this educational course not fully devoted to deep learning? | Thomas Yeo             |
+| "Why is this educational course not fully devoted to deep learning? | Thomas Yeo             |
 
 Find here the description of each lecture, associated material and speaker's details.
 
