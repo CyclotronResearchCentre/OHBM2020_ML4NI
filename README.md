@@ -1,6 +1,8 @@
 # Machine learning for neuroimaging
 ## Learn the basics before going deeper.
 
+[TOC]
+
 OHBM2020 educational course "Machine learning for neuroimaging, learn the basics before going deeper"([introductory slides](Material/OHBM2020_Educ_ML4NI_Introdution_C_Phillips.pdf)).
 
 ### Course description
@@ -29,19 +31,6 @@ The target audience would consist of neuroscientists with intermediate to advanc
 
 The course is composed of 10 complementary lectures:
 
-| **Title**                                                    | **Speaker**            |
-| :------------------------------------------------------------ | :---------------------- |
-| Machine learning in neuroimaging, what are we talking about? | Christophe Phillips    |
-| Cross-validation, how do we assess predictive performance?   | Pradeep Reddy Raamana  |
-| Confounding variables, how do we account for them?           | Janaina Mourao-Miranda |
-| How do we test our hypothesis? A permutation approach.       | Joram Soch             |
-| How do we test our hypothesis? A Bayesian approach.        | Emanuele Olivetti      |
-| What makes a good multivariate model for fMRI-based decoding? | Bertrand Thirion       |
-| Undefined labels? Try unsupervised approaches!               | Valeria Kebets         |
-| Deep Learning for Neuroimaging: What are we talking about?   | Pamela Douglas         |
-| From machine learning to deep learning, how do we ensure objective and reproducible evaluations? | Ninon Burgos           |
-| Why is this educational course not fully devoted to deep learning? | Thomas Yeo             |
-
 1. Machine learning in neuroimaging, what are we talking about?  *Christophe Phillips*
 2. Cross-validation, how do we assess predictive performance?  *Pradeep Reddy Raamana*
 3. Confounding variables, how do we account for them? *Janaina Mourao-Miranda*
@@ -55,25 +44,36 @@ The course is composed of 10 complementary lectures:
 
 Find here the description of each lecture, associated material and speaker's details.
 
-- **Machine learning in neuroimaging, what are we talking about?**  ([slides](Material/OHBM2020_Educ_ML4NI_MLfundamentals_C_Phillips_static.pdf) & video)<br/>
-  This introductory lecture describes the basic principles of machine learning (ML) and how these tools can be applied to neuroimaging data. These will focus on label or parameter prediction, i.e. classification or regression models, of subjects' whole brain images. First these approaches will be compared to standard univariate GLM approaches. Then data representation, as samples and sets of features, and the principles of supervised & unsupervised machine learning are introduced. The talk will also introduce standard ML approaches, e.g. kernel methods, and how their performance is assessed. The issues of generalizability and inference are central: how well can we predict unseen data? and are we performing above chance level? <br/> Most of these points will be further developed in the following talks. 
-  
-  by [*Christophe Phillips*](https://www.uliege.be/cms/c_9054334/en/directory?uid=U016440), [Twitter](https://twitter.com/Ch_Phillips) & [Google Scholar](https://scholar.google.be/citations?hl=en&user=U6i6DFYAAAAJ).
-  
-- **Cross-validation, how do we assess predictive performance?** <br/>
-  Decoding calls for measuring the predictive power of a decoder. It may be used to tune parameters of the decoder to improve it. Cross-validation is the central tool for these purposes. This tutorial will go over cross-validation for decoding and address a few fundamental questions: <br/>o What exactly is cross-validation? Why do we need it in our machine learning studies? <br/>o What are the different types of CV, and how do they compare to each other? <br/>o How to measure and compare predictive performance, and how not to? <br/>o What are the key terminologies one needs to be aware of (overfitting, different performance metrics, sources of bias, etc.)? <br/> The tutorial will also be interactive and participative wherever possible. 
-  
-  by *Pradeep Reddy Raamana*
+#### Machine learning in neuroimaging, what are we talking about?  
+([slides](Material/OHBM2020_Educ_ML4NI_MLfundamentals_C_Phillips_static.pdf) & video)
+> This introductory lecture describes the basic principles of machine learning (ML) and how these tools can be applied to neuroimaging data. These will focus on label or parameter prediction, i.e. classification or regression models, of subjects' whole brain images. First these approaches will be compared to standard univariate GLM approaches. Then data representation, as samples and sets of features, and the principles of supervised & unsupervised machine learning are introduced. The talk will also introduce standard ML approaches, e.g. kernel methods, and how their performance is assessed. The issues of generalizability and inference are central: how well can we predict unseen data? and are we performing above chance level? <br/>Most of these points will be further developed in the following talks. 
 
-- **Confounding variables, how do we account for them?**  <br/>
-  The presence of confounds is a common problem in neuroimaging studies. Confounds, also known as covariates, are variables that affect the imaging data but whose effect we are not interested in studying (e.g. scanner, gender, age). There is a lot of evidence that confounds can strongly affect the performance of neuroimaging-based machine learning models and a number of approaches have been proposed to deal problem. This talk will describe the problem of confounds focusing on clinical neuroimaging studies, present different approaches to deal the problem and discuss their advantages and limitations. <
-  
-  by *Janaina Mourao-Miranda*
-  
-- **How do we test our hypothesis? A permutation approach**. <br/>
-  With the adoption of novel analysis methods beyond the classical GLM-based approach including multivariate pattern analysis, there is an increasing need for hypothesis tests that make only weak distributional assumptions, in particular permutation tests. In this talk I will give an introduction to permutation tests from the ground up, giving practitioners clear guidelines on how to design and implement them.<br/>The talk will cover the following topics: <br/>1. A basic example and the formal procedure to perform a permutation test; <br/>2. Exchangeability as the assumption underlying permutation tests; <br/>3. Examples: univariate and multivariate two-sample and paired tests; <br/>4. Limited exchangeability in fMRI time series, randomization test and exchangeability of run-wise estimates; <br/>5. Further topics: multiple comparisons, extensions based on mirror symmetry and sphericity. <br/>To improve audience engagement, after the first, second, and fourth section listeners will be given the opportunity to ask questions (in addition to questions after the whole talk). 
-  
-  by *Joram Soch*
+by [*Christophe Phillips*](https://www.uliege.be/cms/c_9054334/en/directory?uid=U016440), [Twitter](https://twitter.com/Ch_Phillips) & [Google Scholar](https://scholar.google.be/citations?hl=en&user=U6i6DFYAAAAJ).
+
+#### Cross-validation, how do we assess predictive performance?
+
+(slides & video)
+
+> Decoding calls for measuring the predictive power of a decoder. It may be used to tune parameters of the decoder to improve it. Cross-validation is the central tool for these purposes. This tutorial will go over cross-validation for decoding and address a few fundamental questions: <br/>- What exactly is cross-validation? Why do we need it in our machine learning studies? <br/>- What are the different types of CV, and how do they compare to each other? <br/>- How to measure and compare predictive performance, and how not to? <br/>- What are the key terminologies one needs to be aware of (overfitting, different performance metrics, sources of bias, etc.)? <br/> The tutorial will also be interactive and participative wherever possible. 
+
+by *Pradeep Reddy Raamana*
+
+#### Confounding variables, how do we account for them?
+
+(slides & video)
+
+> The presence of confounds is a common problem in neuroimaging studies. Confounds, also known as covariates, are variables that affect the imaging data but whose effect we are not interested in studying (e.g. scanner, gender, age). There is a lot of evidence that confounds can strongly affect the performance of neuroimaging-based machine learning models and a number of approaches have been proposed to deal problem. This talk will describe the problem of confounds focusing on clinical neuroimaging studies, present different approaches to deal the problem and discuss their advantages and limitations. <
+
+by *Janaina Mourao-Miranda*
+
+#### How do we test our hypothesis? A permutation approach
+
+(slides & video)
+
+> With the adoption of novel analysis methods beyond the classical GLM-based approach including multivariate pattern analysis, there is an increasing need for hypothesis tests that make only weak distributional assumptions, in particular permutation tests. In this talk I will give an introduction to permutation tests from the ground up, giving practitioners clear guidelines on how to design and implement them.<br/>The talk will cover the following topics: <br/>1. A basic example and the formal procedure to perform a permutation test; <br/>2. Exchangeability as the assumption underlying permutation tests; <br/>3. Examples: univariate and multivariate two-sample and paired tests; <br/>4. Limited exchangeability in fMRI time series, randomization test and exchangeability of run-wise estimates; <br/>5. Further topics: multiple comparisons, extensions based on mirror symmetry and sphericity. <br/>To improve audience engagement, after the first, second, and fourth section listeners will be given the opportunity to ask questions (in addition to questions after the whole talk). 
+
+by *Joram Soch*
+
 
 - **How do we test our hypotheses? a Bayesian approach.**  <br/>
   The decoding of neural correlates is a task of primary interest in many neuroscientific investigations where typically, the subject is presented with a set of stimuli and a classification algorithm is used to extract stimulus-related information from the neuroimaging data.<br />Frequently, in those investigations, the final outcome of the inferential process is a test of hypotheses to quantify the evidence extracted by the classifier to support the neuroscientific claims. In this tutorial, we present the Bayesian way to test hypotheses on the results of a classification-based pipeline of analysis. Specifically, we describe the comparison of Bayesian hypothesis testing with the classical test of hypotheses, discussing the pros and cons. Moreover, we show how to conduct the Bayesian test in case of multiple categories of stimulus and multiple subjects.
