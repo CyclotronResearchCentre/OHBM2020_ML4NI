@@ -127,12 +127,12 @@ Find here the description of each lecture, associated material and speaker's det
 |                                                              |
 
 #### Why is this educational course not fully devoted to deep learning?
-(slides & video)
+([slides](Material/OHBM2020_DeepLearning_yeo_condensed2.pdf) & video)
 
 | Despite the resounding success of deep learning in many fields, recent studies have suggested that for certain applications, classical machine learning algorithms might achieve comparable performance at significantly lower computational cost. In this educational course, we will start by discussing such examples, including earthquake prediction and our own work on functional connectivity prediction of behavior. Along the way, we will also discuss various issues that might arise from comparing different algorithms and I will also speculate about various classes of neuroimaging problems, in which DNNs might excel in relative to classical approaches. |
 | :----------------------------------------------------------- |
 |                                                              |
-|   by *Thomas Yeo* |
+| by [*Thomas Yeo*]( https://sites.google.com/view/yeolab), [Twitter](https://twitter.com/bttyeo) & [GoogleScholar](https://scholar.google.com/citations?user=BOUzsU8AAAAJ&hl) |
 |                                                              |
 
 
