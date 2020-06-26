@@ -42,6 +42,8 @@ The course is composed of 10 complementary lectures:
 | From machine learning to deep learning, how do we ensure objective and reproducible evaluations? | Ninon Burgos           |
 | "Why is this educational course not fully devoted to deep learning? | Thomas Yeo             |
 
+
+
 Find here the description of each lecture, associated material and speaker's details.
 
 - **Machine learning in neuroimaging, what are we talking about?**  ([slides](Material/OHBM2020_Educ_ML4NI_MLfundamentals_C_Phillips_static.pdf) & video)<br/>
