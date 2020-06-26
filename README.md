@@ -29,7 +29,7 @@ The target audience would consist of neuroscientists with intermediate to advanc
 
 The course is composed of 10 complementary lectures:
 
-- **Machine learning in neuroimaging, what are we talking about?**  <br/>
+- **Machine learning in neuroimaging, what are we talking about?**  ([slides](Material/OHBM2020_Educ_ML4NI_MLfundamentals_C_Phillips_static.pdf))<br/>
   This introductory lecture describes the basic principles of machine learning (ML) and how these tools can be applied to neuroimaging data. These will focus on label or parameter prediction, i.e. classification or regression models, of subjects' whole brain images. First these approaches will be compared to standard univariate GLM approaches. Then data representation, as samples and sets of features, and the principles of supervised & unsupervised machine learning are introduced. The talk will also introduce standard ML approaches, e.g. kernel methods, and how their performance is assessed. The issues of generalizability and inference are central: how well can we predict unseen data? and are we performing above chance level? <br/> Most of these points will be further developed in the following talks. 
   
   by [*Christophe Phillips*](https://www.uliege.be/cms/c_9054334/en/directory?uid=U016440), [Twitter](https://twitter.com/Ch_Phillips) & [Google Scholar](https://scholar.google.be/citations?hl=en&user=U6i6DFYAAAAJ).
