@@ -32,7 +32,7 @@ The target audience would consist of neuroscientists with intermediate to advanc
 The course is composed of 10 complementary lectures:
 
 1. Machine learning in neuroimaging, what are we talking about?  *Christophe Phillips*
-2. Cross-validation, how do we assess predictive performance?  *[Pradeep Reddy Raamana](crossinvalidation.com)*
+2. Cross-validation, how do we assess predictive performance?  *[Pradeep Reddy Raamana](https://crossinvalidation.com/)*
 3. Confounding variables, how do we account for them? *Janaina Mourao-Miranda*
 4. How do we test our hypothesis? A permutation approach. *Joram Soch*
 5. How do we test our hypothesis? A Bayesian approach. *Emanuele Olivetti*
