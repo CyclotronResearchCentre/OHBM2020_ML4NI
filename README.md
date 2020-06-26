@@ -82,7 +82,7 @@ Find here the description of each lecture, associated material and speaker's det
 
 
 #### How do we test our hypotheses? a Bayesian approach.
-(slides[PDF](Material/OHBM2020_Test_Hypotheses_Bayesian_Emanuele_Olivetti.pdf)[GitHub](https://github.com/emanuele/ohbm2020_bayesian) & video)
+(slides([PDF](Material/OHBM2020_Test_Hypotheses_Bayesian_Emanuele_Olivetti.pdf),[GitHub](https://github.com/emanuele/ohbm2020_bayesian)) & video)
 
 | The decoding of neural correlates is a task of primary interest in many neuroscientific investigations where typically, the subject is presented with a set of stimuli and a classification algorithm is used to extract stimulus-related information from the neuroimaging data.<br />Frequently, in those investigations, the final outcome of the inferential process is a test of hypotheses to quantify the evidence extracted by the classifier to support the neuroscientific claims. In this tutorial, we present the Bayesian way to test hypotheses on the results of a classification-based pipeline of analysis. Specifically, we describe the comparison of Bayesian hypothesis testing with the classical test of hypotheses, discussing the pros and cons. Moreover, we may show how to conduct the Bayesian test in case of multiple categories of stimulus and multiple subjects. |
 | :----------------------------------------------------------- |
