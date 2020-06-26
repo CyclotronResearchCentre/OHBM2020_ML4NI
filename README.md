@@ -1,7 +1,7 @@
 # Machine learning for neuroimaging
 ## Learn the basics before going deeper.
 
-OHBM2020 educational course "Machine learning for neuroimaging, learn the basics before going deeper".
+OHBM2020 educational course "Machine learning for neuroimaging, learn the basics before going deeper"([introductory slides](Material/OHBM2020_Educ_ML4NI_Introdution_C_Phillips.pdf)).
 
 ### Course description
 
@@ -73,7 +73,7 @@ The course is composed of 10 complementary lectures:
   Neuroimaging data have been increasingly used to characterize brain diseases, such as Alzheimer’s disease, schizophrenia or autism, by means of machine learning (ML) methods, offering promising tools for individualized diagnosis and prognosis. A large number of studies have proposed to use pre-extracted features from dedicated image processing pipelines followed by different types of classifiers, such as support vector machines or random forests. Recently, deep learning (DL), in which features are automatically learned by the model, has been proposed to assist diagnosis. <br />The aim of this lecture is to teach how to design and validate pattern recognition for clinical applications in brain diseases. The course will i) explain how to pre-process neuroimages and extract features, ii) describe several ML and DL classification strategies, and iii) detail good practices for rigorous, transparent and reproducible evaluation on clinical neuroimaging databases.
 
   by *Ninon Burgos*
-   
+  
 - **Why is this educational course not fully devoted to deep learning?** <br/>
   Despite the resounding success of deep learning in many fields, recent studies have suggested that for certain applications, classical machine learning algorithms might achieve comparable performance at significantly lower computational cost. In this educational course, we will start by discussing such examples, including earthquake prediction and our own work on functional connectivity prediction of behavior. Along the way, we will also discuss various issues that might arise from comparing different algorithms and I will also speculate about various classes of neuroimaging problems, in which DNNs might excel in relative to classical approaches.
 
