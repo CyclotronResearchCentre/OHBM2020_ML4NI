@@ -29,7 +29,22 @@ The target audience would consist of neuroscientists with intermediate to advanc
 
 The course is composed of 10 complementary lectures:
 
-- **Machine learning in neuroimaging, what are we talking about?**  ([slides](Material/OHBM2020_Educ_ML4NI_MLfundamentals_C_Phillips_static.pdf))<br/>
+| Title                                                        | Speaker                |
+| ------------------------------------------------------------ | ---------------------- |
+| Machine learning in neuroimaging, what are we talking about? | Christophe Phillips    |
+| Cross-validation, how do we assess predictive performance?   | Pradeep Reddy Raamana  |
+| Confounding variables, how do we account for them?           | Janaina Mourao-Miranda |
+| How do we test our hypothesis? A permutation approach.       | Joram Soch             |
+| How do we test our hypothesis? A A Bayesian approach.        | Emanuele Olivetti      |
+| What makes a good multivariate model for fMRI-based decoding? | Bertrand Thirion       |
+| Undefined labels? Try unsupervised approaches!               | Valeria Kebets         |
+| Deep Learning for Neuroimaging: What are we talking about?   | Pamela Douglas         |
+| From machine learning to deep learning, how do we ensure objective and reproducible evaluations? | Ninon Burgos           |
+| #8594; "Why is this educational course not fully devoted to deep learning? | Thomas Yeo             |
+
+Find here the description of each lecture, associated material and speaker's details.
+
+- **Machine learning in neuroimaging, what are we talking about?**  ([slides](Material/OHBM2020_Educ_ML4NI_MLfundamentals_C_Phillips_static.pdf) & video)<br/>
   This introductory lecture describes the basic principles of machine learning (ML) and how these tools can be applied to neuroimaging data. These will focus on label or parameter prediction, i.e. classification or regression models, of subjects' whole brain images. First these approaches will be compared to standard univariate GLM approaches. Then data representation, as samples and sets of features, and the principles of supervised & unsupervised machine learning are introduced. The talk will also introduce standard ML approaches, e.g. kernel methods, and how their performance is assessed. The issues of generalizability and inference are central: how well can we predict unseen data? and are we performing above chance level? <br/> Most of these points will be further developed in the following talks. 
   
   by [*Christophe Phillips*](https://www.uliege.be/cms/c_9054334/en/directory?uid=U016440), [Twitter](https://twitter.com/Ch_Phillips) & [Google Scholar](https://scholar.google.be/citations?hl=en&user=U6i6DFYAAAAJ).
@@ -44,7 +59,7 @@ The course is composed of 10 complementary lectures:
   
   by *Janaina Mourao-Miranda*
   
-- **How do we test our hypothesis? A permutation approach** <br/>
+- **How do we test our hypothesis? A permutation approach**. <br/>
   With the adoption of novel analysis methods beyond the classical GLM-based approach including multivariate pattern analysis, there is an increasing need for hypothesis tests that make only weak distributional assumptions, in particular permutation tests. In this talk I will give an introduction to permutation tests from the ground up, giving practitioners clear guidelines on how to design and implement them.<br/>The talk will cover the following topics: <br/>1. A basic example and the formal procedure to perform a permutation test; <br/>2. Exchangeability as the assumption underlying permutation tests; <br/>3. Examples: univariate and multivariate two-sample and paired tests; <br/>4. Limited exchangeability in fMRI time series, randomization test and exchangeability of run-wise estimates; <br/>5. Further topics: multiple comparisons, extensions based on mirror symmetry and sphericity. <br/>To improve audience engagement, after the first, second, and fourth section listeners will be given the opportunity to ask questions (in addition to questions after the whole talk). 
   
   by *Joram Soch*
