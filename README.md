@@ -59,7 +59,7 @@ Find here the description of each lecture, associated material and speaker's det
 | Decoding calls for measuring the predictive power of a decoder. It may be used to tune parameters of the decoder to improve it. Cross-validation is the central tool for these purposes. This tutorial will go over cross-validation for decoding and address a few fundamental questions: <br/>- What exactly is cross-validation? Why do we need it in our machine learning studies? <br/>- What are the different types of CV, and how do they compare to each other? <br/>- How to measure and compare predictive performance, and how not to? <br/>- What are the key terminologies one needs to be aware of (overfitting, different performance metrics, sources of bias, etc.)?  |
 | :----------------------------------------------------------- |
 |                                                              |
-| by [*Pradeep Reddy Raamana*](crossinvalidation.com), [Twitter](https://twitter.com/Raamana_), [Google Scholar](https://scholar.google.ca/citations?user=Enxh8xcAAAAJ&hl=en)|
+| by [*Pradeep Reddy Raamana*](https://crossinvalidation.com), [Twitter](https://twitter.com/Raamana_), [Google Scholar](https://scholar.google.ca/citations?user=Enxh8xcAAAAJ&hl=en)|
 |                                                              |
 
 #### Confounding variables, how do we account for them?
