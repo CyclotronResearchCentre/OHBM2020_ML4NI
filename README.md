@@ -91,12 +91,12 @@ Find here the description of each lecture, associated material and speaker's det
 |                                                              |
 
 #### What makes a good multivariate model for fMRI-based decoding?
-(slides & video)
+([slides](Material/OHBM2020_Educ_ML4NI_multivariate_thirion.pdf) & video)
 
 | Standard multivariate analyses yield two pieces of information: what  experimental manipulations are indeed reflected in brain activity, and with due caution, a characterization of the brain activity patterns  associated with these manipulations.  Performing some inference with pattern analysis model raises some caveats, in particular regarding  the reliability of the multivariate patterns obtained in this framework. <br/>In this talk, we will discuss in depth the differences between classical univariate and multivariate analyses, and analyze the pros and cons of either approach. We will describe the criteria that can be used to assess the classifiers in terms of accuracy, interpretability and stability.  We will then describe cheap, yet effective ways to improve the quality of the models using fast clustering schemes for  spatial regularization and model averaging. <br/>We will illustrate these concepts on datasets and accessible to the audience as Jupyter notebooks.  |
 | :----------------------------------------------------------- |
 |                                                              |
-|  by *Bertrand Thirion* |
+|  by [*Bertrand Thirion*] (https://team.inria.fr/parietal), [twitter](https://twitter.com/BertrandThirion) & [Google Scholar](https://scholar.google.com/citations?user=MeKi5_AAAAAJ&hl=fr). |
 |                                                              |
 
 #### Undefined labels? Try unsupervised approaches!
