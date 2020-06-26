@@ -35,14 +35,23 @@ The course is composed of 10 complementary lectures:
 | Cross-validation, how do we assess predictive performance?   | Pradeep Reddy Raamana  |
 | Confounding variables, how do we account for them?           | Janaina Mourao-Miranda |
 | How do we test our hypothesis? A permutation approach.       | Joram Soch             |
-| How do we test our hypothesis? A A Bayesian approach.        | Emanuele Olivetti      |
+| How do we test our hypothesis? A Bayesian approach.        | Emanuele Olivetti      |
 | What makes a good multivariate model for fMRI-based decoding? | Bertrand Thirion       |
 | Undefined labels? Try unsupervised approaches!               | Valeria Kebets         |
 | Deep Learning for Neuroimaging: What are we talking about?   | Pamela Douglas         |
 | From machine learning to deep learning, how do we ensure objective and reproducible evaluations? | Ninon Burgos           |
-| "Why is this educational course not fully devoted to deep learning? | Thomas Yeo             |
+| Why is this educational course not fully devoted to deep learning? | Thomas Yeo             |
 
-
+1. Machine learning in neuroimaging, what are we talking about?  *Christophe Phillips*
+2. Cross-validation, how do we assess predictive performance?  *Pradeep Reddy Raamana*
+3. Confounding variables, how do we account for them? *Janaina Mourao-Miranda*
+4. How do we test our hypothesis? A permutation approach. *Joram Soch*
+5. How do we test our hypothesis? A Bayesian approach. *Emanuele Olivetti*
+6. What makes a good multivariate model for fMRI-based decoding?  *Bertrand Thirion*
+7. Undefined labels? Try unsupervised approaches! *Valeria Kebets*
+8. Deep Learning for Neuroimaging: What are we talking about? *Pamela Douglas*
+9. From machine learning to deep learning, how do we ensure objective and reproducible evaluations? *Ninon Burgos*
+10. Why is this educational course not fully devoted to deep learning? *Thomas Yeo*
 
 Find here the description of each lecture, associated material and speaker's details.
 
