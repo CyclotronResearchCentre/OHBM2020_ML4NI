@@ -35,8 +35,8 @@ The course is composed of 10 complementary lectures:
 2. Cross-validation, how do we assess predictive performance?  *[Pradeep Reddy Raamana](https://crossinvalidation.com/)*
 3. Confounding variables, how do we account for them? *Janaina Mourao-Miranda*
 4. How do we test our hypothesis? A permutation approach. *Joram Soch*
-5. How do we test our hypothesis? A Bayesian approach. *Emanuele Olivetti*
-6. What makes a good multivariate model for fMRI-based decoding?  *Bertrand Thirion*
+5. How do we test our hypothesis? A Bayesian approach. [*Emanuele Olivetti*](https://nilab.fbk.eu)
+6. What makes a good multivariate model for fMRI-based decoding?  [*Bertrand Thirion*](https://team.inria.fr/parietal)
 7. Undefined labels? Try unsupervised approaches! *Valeria Kebets*
 8. Deep Learning for Neuroimaging: What are we talking about? *Pamela Douglas*
 9. From machine learning to deep learning, how do we ensure objective and reproducible evaluations? *Ninon Burgos*
@@ -68,7 +68,7 @@ Find here the description of each lecture, associated material and speaker's det
 | The presence of confounds is a common problem in neuroimaging studies. Confounds, also known as covariates, are variables that affect the imaging data but whose effect we are not interested in studying (e.g. scanner, gender, age). There is a lot of evidence that confounds can strongly affect the performance of neuroimaging-based machine learning models and a number of approaches have been proposed to deal problem. This talk will describe the problem of confounds focusing on clinical neuroimaging studies, present different approaches to deal the problem and discuss their advantages and limitations. |
 | :----------------------------------------------------------- |
 |                                                              |
-| by *Janaina Mourao-Miranda* |
+| by *Janaina Mourao-Miranda*, [Twitter](https://twitter.com/MouraoMiranda) & [Google Scholar](https://scholar.google.be/citations?hl=en&user=CeWaBjcAAAAJ). |
 |                                                              |
 
 #### How do we test our hypothesis? A permutation approach
@@ -82,7 +82,7 @@ Find here the description of each lecture, associated material and speaker's det
 
 
 #### How do we test our hypotheses? a Bayesian approach.
-(slides([PDF](Material/OHBM2020_Test_Hypotheses_Bayesian_Emanuele_Olivetti.pdf),[GitHub](https://github.com/emanuele/ohbm2020_bayesian)) & video)
+([slides](Material/OHBM2020_Test_Hypotheses_Bayesian_Emanuele_Olivetti.pdf), [GitHub](https://github.com/emanuele/ohbm2020_bayesian) & video)
 
 | The decoding of neural correlates is a task of primary interest in many neuroscientific investigations where typically, the subject is presented with a set of stimuli and a classification algorithm is used to extract stimulus-related information from the neuroimaging data.<br />Frequently, in those investigations, the final outcome of the inferential process is a test of hypotheses to quantify the evidence extracted by the classifier to support the neuroscientific claims. In this tutorial, we present the Bayesian way to test hypotheses on the results of a classification-based pipeline of analysis. Specifically, we describe the comparison of Bayesian hypothesis testing with the classical test of hypotheses, discussing the pros and cons. Moreover, we may show how to conduct the Bayesian test in case of multiple categories of stimulus and multiple subjects. |
 | :----------------------------------------------------------- |
@@ -96,7 +96,7 @@ Find here the description of each lecture, associated material and speaker's det
 | Standard multivariate analyses yield two pieces of information: what  experimental manipulations are indeed reflected in brain activity, and with due caution, a characterization of the brain activity patterns  associated with these manipulations.  Performing some inference with pattern analysis model raises some caveats, in particular regarding  the reliability of the multivariate patterns obtained in this framework. <br/>In this talk, we will discuss in depth the differences between classical univariate and multivariate analyses, and analyze the pros and cons of either approach. We will describe the criteria that can be used to assess the classifiers in terms of accuracy, interpretability and stability.  We will then describe cheap, yet effective ways to improve the quality of the models using fast clustering schemes for  spatial regularization and model averaging. <br/>We will illustrate these concepts on datasets and accessible to the audience as Jupyter notebooks.  |
 | :----------------------------------------------------------- |
 |                                                              |
-|  by [*Bertrand Thirion*] (https://team.inria.fr/parietal), [twitter](https://twitter.com/BertrandThirion) & [Google Scholar](https://scholar.google.com/citations?user=MeKi5_AAAAAJ&hl=fr). |
+|  by [*Bertrand Thirion*](https://team.inria.fr/parietal), [Twitter](https://twitter.com/BertrandThirion) & [Google Scholar](https://scholar.google.com/citations?user=MeKi5_AAAAAJ&hl=fr). |
 |                                                              |
 
 #### Undefined labels? Try unsupervised approaches!
@@ -105,7 +105,7 @@ Find here the description of each lecture, associated material and speaker's det
 | When labels are not clearly defined (e.g., in psychiatry, where boundaries between diagnostic categories can be unreliable), unsupervised methods can be useful for uncovering latent relationships between different data. We will first show how unsupervised methods can overcome certain limitations of supervised methods. Partial Least Squares (PLS) and Canonical Correlation Analysis (CCA) will be used to illustrate how to find multivariate relationships between neuroimaging and behavioral data in the form of latent components. These algorithms aim to maximize the covariance (PLS) / correlation (CCA) between two data matrices by deriving latent components that are optimally weighted linear combinations of the original variables. We will then show how to test the significance and generalizability of these latent components, using permutation testing and cross-validation. We will also demonstrate how to determine the robustness of the neuroimaging and behavioral variables that drive the latent relationships, using bootstrapping. |
 | :----------------------------------------------------------- |
 |                                                              |
-|   by *Valeria Kebets*, [twitter](https://twitter.com/valeria_kebets) & [Google Scholar](https://scholar.google.com/citations?user=TTOxojwAAAAJ&hl=en&oi=ao. |
+|   by *Valeria Kebets*, [Twitter](https://twitter.com/valeria_kebets) & [Google Scholar](https://scholar.google.com/citations?user=TTOxojwAAAAJ&hl=en&oi=ao). |
 |                                                              |
 
 #### Deep Learning for Neuroimaging: What are we talking about?
