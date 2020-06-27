@@ -31,7 +31,7 @@ The target audience would consist of neuroscientists with intermediate to advanc
 
 The course is composed of 10 complementary lectures:
 
-1. Machine learning in neuroimaging, what are we talking about?  *Christophe Phillips*
+1. Machine learning in neuroimaging, what are we talking about?  [*Christophe Phillips*](https://www.uliege.be/cms/c_9054334/en/directory?uid=U016440)
 2. Cross-validation, how do we assess predictive performance?  *[Pradeep Reddy Raamana](https://crossinvalidation.com/)*
 3. Confounding variables, how do we account for them? *Janaina Mourao-Miranda*
 4. How do we test our hypothesis? A permutation approach. *Joram Soch*
@@ -105,7 +105,7 @@ Find here the description of each lecture, associated material and speaker's det
 | When labels are not clearly defined (e.g., in psychiatry, where boundaries between diagnostic categories can be unreliable), unsupervised methods can be useful for uncovering latent relationships between different data. We will first show how unsupervised methods can overcome certain limitations of supervised methods. Partial Least Squares (PLS) and Canonical Correlation Analysis (CCA) will be used to illustrate how to find multivariate relationships between neuroimaging and behavioral data in the form of latent components. These algorithms aim to maximize the covariance (PLS) / correlation (CCA) between two data matrices by deriving latent components that are optimally weighted linear combinations of the original variables. We will then show how to test the significance and generalizability of these latent components, using permutation testing and cross-validation. We will also demonstrate how to determine the robustness of the neuroimaging and behavioral variables that drive the latent relationships, using bootstrapping. |
 | :----------------------------------------------------------- |
 |                                                              |
-|   by *Valeria Kebets* |
+|   by *Valeria Kebets*, [twitter](https://twitter.com/valeria_kebets) & [Google Scholar](https://scholar.google.com/citations?user=TTOxojwAAAAJ&hl=en&oi=ao. |
 |                                                              |
 
 #### Deep Learning for Neuroimaging: What are we talking about?
