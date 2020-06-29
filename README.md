@@ -100,7 +100,7 @@ Find here the description of each lecture, associated material and speaker's det
 |                                                              |
 
 #### Undefined labels? Try unsupervised approaches!
-(slides & video)
+([slides](OHBM2020_Educ_ML4NI_unsupervised_labels_VKebets.pdf) & video)
 
 | When labels are not clearly defined (e.g., in psychiatry, where boundaries between diagnostic categories can be unreliable), unsupervised methods can be useful for uncovering latent relationships between different data. We will first show how unsupervised methods can overcome certain limitations of supervised methods. Partial Least Squares (PLS) and Canonical Correlation Analysis (CCA) will be used to illustrate how to find multivariate relationships between neuroimaging and behavioral data in the form of latent components. These algorithms aim to maximize the covariance (PLS) / correlation (CCA) between two data matrices by deriving latent components that are optimally weighted linear combinations of the original variables. We will then show how to test the significance and generalizability of these latent components, using permutation testing and cross-validation. We will also demonstrate how to determine the robustness of the neuroimaging and behavioral variables that drive the latent relationships, using bootstrapping. |
 | :----------------------------------------------------------- |
