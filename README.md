@@ -32,15 +32,15 @@ The target audience would consist of neuroscientists with intermediate to advanc
 The course is composed of 10 complementary lectures:
 
 1. Machine learning in neuroimaging, what are we talking about?  [*Christophe Phillips*](https://www.uliege.be/cms/c_9054334/en/directory?uid=U016440)
-2. Cross-validation, how do we assess predictive performance?  *[Pradeep Reddy Raamana](https://crossinvalidation.com/)*
-3. Confounding variables, how do we account for them? *Janaina Mourao-Miranda*
+2. Cross-validation, how do we assess predictive performance?  [*Pradeep Reddy Raamana*](https://crossinvalidation.com/)
+3. Confounding variables, how do we account for them? [*Janaina Mourao-Miranda*](http://www.mlnl.cs.ucl.ac.uk/)
 4. How do we test our hypothesis? A permutation approach. *Joram Soch*
 5. How do we test our hypothesis? A Bayesian approach. [*Emanuele Olivetti*](https://nilab.fbk.eu)
 6. What makes a good multivariate model for fMRI-based decoding?  [*Bertrand Thirion*](https://team.inria.fr/parietal)
-7. Undefined labels? Try unsupervised approaches! *Valeria Kebets*
+7. Undefined labels? Try unsupervised approaches! [*Valeria Kebets*](https://orcid.org/0000-0003-1707-7437)
 8. Deep Learning for Neuroimaging: What are we talking about? *Pamela Douglas*
 9. From machine learning to deep learning, how do we ensure objective and reproducible evaluations? *Ninon Burgos*
-10. Why is this educational course not fully devoted to deep learning? *Thomas Yeo*
+10. Why is this educational course not fully devoted to deep learning? [*Thomas Yeo*](https://sites.google.com/view/yeolab)
 
 Find here the description of each lecture, associated material and speaker's details.
 
@@ -68,7 +68,7 @@ Find here the description of each lecture, associated material and speaker's det
 | The presence of confounds is a common problem in neuroimaging studies. Confounds, also known as covariates, are variables that affect the imaging data but whose effect we are not interested in studying (e.g. scanner, gender, age). There is a lot of evidence that confounds can strongly affect the performance of neuroimaging-based machine learning models and a number of approaches have been proposed to deal problem. This talk will describe the problem of confounds focusing on clinical neuroimaging studies, present different approaches to deal the problem and discuss their advantages and limitations. |
 | :----------------------------------------------------------- |
 |                                                              |
-| by *Janaina Mourao-Miranda*, [Twitter](https://twitter.com/MouraoMiranda) & [Google Scholar](https://scholar.google.be/citations?hl=en&user=CeWaBjcAAAAJ). |
+| by [*Janaina Mourao-Miranda*](http://www.mlnl.cs.ucl.ac.uk/), [Twitter](https://twitter.com/MouraoMiranda) & [Google Scholar](https://scholar.google.be/citations?hl=en&user=CeWaBjcAAAAJ). |
 |                                                              |
 
 #### How do we test our hypothesis? A permutation approach
@@ -105,7 +105,7 @@ Find here the description of each lecture, associated material and speaker's det
 | When labels are not clearly defined (e.g., in psychiatry, where boundaries between diagnostic categories can be unreliable), unsupervised methods can be useful for uncovering latent relationships between different data. We will first show how unsupervised methods can overcome certain limitations of supervised methods. Partial Least Squares (PLS) and Canonical Correlation Analysis (CCA) will be used to illustrate how to find multivariate relationships between neuroimaging and behavioral data in the form of latent components. These algorithms aim to maximize the covariance (PLS) / correlation (CCA) between two data matrices by deriving latent components that are optimally weighted linear combinations of the original variables. We will then show how to test the significance and generalizability of these latent components, using permutation testing and cross-validation. We will also demonstrate how to determine the robustness of the neuroimaging and behavioral variables that drive the latent relationships, using bootstrapping. |
 | :----------------------------------------------------------- |
 |                                                              |
-|   by *Valeria Kebets*, [Twitter](https://twitter.com/valeria_kebets) & [Google Scholar](https://scholar.google.com/citations?user=TTOxojwAAAAJ&hl=en&oi=ao). |
+|   by [*Valeria Kebets*](https://orcid.org/0000-0003-1707-7437), [Twitter](https://twitter.com/valeria_kebets) & [Google Scholar](https://scholar.google.com/citations?user=TTOxojwAAAAJ&hl=en&oi=ao). |
 |                                                              |
 
 #### Deep Learning for Neuroimaging: What are we talking about?
@@ -132,7 +132,7 @@ Find here the description of each lecture, associated material and speaker's det
 | Despite the resounding success of deep learning in many fields, recent studies have suggested that for certain applications, classical machine learning algorithms might achieve comparable performance at significantly lower computational cost. In this educational course, we will start by discussing such examples, including earthquake prediction and our own work on functional connectivity prediction of behavior. Along the way, we will also discuss various issues that might arise from comparing different algorithms and I will also speculate about various classes of neuroimaging problems, in which DNNs might excel in relative to classical approaches. |
 | :----------------------------------------------------------- |
 |                                                              |
-| by [*Thomas Yeo*]( https://sites.google.com/view/yeolab), [Twitter](https://twitter.com/bttyeo) & [GoogleScholar](https://scholar.google.com/citations?user=BOUzsU8AAAAJ&hl) |
+| by [*Thomas Yeo*](https://sites.google.com/view/yeolab), [Twitter](https://twitter.com/bttyeo) & [GoogleScholar](https://scholar.google.com/citations?user=BOUzsU8AAAAJ&hl) |
 |                                                              |
 
 
