@@ -39,7 +39,7 @@ The course is composed of 10 complementary lectures:
 6. What makes a good multivariate model for fMRI-based decoding?  [*Bertrand Thirion*](https://team.inria.fr/parietal)
 7. Undefined labels? Try unsupervised approaches! [*Valeria Kebets*](https://orcid.org/0000-0003-1707-7437)
 8. Deep Learning for Neuroimaging: What are we talking about? *Pamela Douglas*
-9. From machine learning to deep learning, how do we ensure objective and reproducible evaluations? *Ninon Burgos*
+9. From machine learning to deep learning, how do we ensure objective and reproducible evaluations? [*Ninon Burgos*](https://ninonburgos.com/)
 10. Why is this educational course not fully devoted to deep learning? [*Thomas Yeo*](https://sites.google.com/view/yeolab)
 
 Find here the description of each lecture, associated material and speaker's details.
@@ -100,7 +100,7 @@ Find here the description of each lecture, associated material and speaker's det
 |                                                              |
 
 #### Undefined labels? Try unsupervised approaches!
-([slides](OHBM2020_Educ_ML4NI_unsupervised_labels_VKebets.pdf) & video)
+([slides](Material/OHBM2020_Educ_ML4NI_unsupervised_labels_VKebets.pdf) & video)
 
 | When labels are not clearly defined (e.g., in psychiatry, where boundaries between diagnostic categories can be unreliable), unsupervised methods can be useful for uncovering latent relationships between different data. We will first show how unsupervised methods can overcome certain limitations of supervised methods. Partial Least Squares (PLS) and Canonical Correlation Analysis (CCA) will be used to illustrate how to find multivariate relationships between neuroimaging and behavioral data in the form of latent components. These algorithms aim to maximize the covariance (PLS) / correlation (CCA) between two data matrices by deriving latent components that are optimally weighted linear combinations of the original variables. We will then show how to test the significance and generalizability of these latent components, using permutation testing and cross-validation. We will also demonstrate how to determine the robustness of the neuroimaging and behavioral variables that drive the latent relationships, using bootstrapping. |
 | :----------------------------------------------------------- |
@@ -118,12 +118,12 @@ Find here the description of each lecture, associated material and speaker's det
 |                                                              |
 
 #### From machine learning to deep learning, how do we ensure objective and reproducible evaluations?
-(slides & video)
+([slides](Material/OHBM2020_Educ_ML4NI_Reproducible-evaluations-from-ML-to-DL_Burgos.pdf), [GitHub AD-ML](https://github.com/aramis-lab/AD-ML), [GitHub AD-DL](https://github.com/aramis-lab/AD-DL) & video)
 
 | Neuroimaging data have been increasingly used to characterize brain diseases, such as Alzheimer’s disease, schizophrenia or autism, by means of machine learning (ML) methods, offering promising tools for individualized diagnosis and prognosis. A large number of studies have proposed to use pre-extracted features from dedicated image processing pipelines followed by different types of classifiers, such as support vector machines or random forests. Recently, deep learning (DL), in which features are automatically learned by the model, has been proposed to assist diagnosis. <br />The aim of this lecture is to teach how to design and validate pattern recognition for clinical applications in brain diseases. The course will i) explain how to pre-process neuroimages and extract features, ii) describe several ML and DL classification strategies, and iii) detail good practices for rigorous, transparent and reproducible evaluation on clinical neuroimaging databases. |
 | :----------------------------------------------------------- |
 |                                                              |
-|   by *Ninon Burgos* |
+|   by [*Ninon Burgos*](https://ninonburgos.com/), [Twitter](https://twitter.com/NinonBurgos) & [Google Scholar](https://scholar.google.com/citations?user=lHuYSU0AAAAJ).|
 |                                                              |
 
 #### Why is this educational course not fully devoted to deep learning?
