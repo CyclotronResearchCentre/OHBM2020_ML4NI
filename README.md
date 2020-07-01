@@ -3,7 +3,7 @@
 
 [TOC]
 
-OHBM2020 educational course "Machine learning for neuroimaging, learn the basics before going deeper"([introductory slides](Material/OHBM2020_Educ_ML4NI_Introdution_C_Phillips.pdf)).
+OHBM 2020 Educational Course _Machine learning for Neuroimaging: learn the basics before going deeper_ ([introductory slides](Material/OHBM2020_Educ_ML4NI_Introdution_C_Phillips.pdf)).
 
 ### Course description
 
@@ -34,7 +34,7 @@ The course is composed of 10 complementary lectures:
 1. Machine learning in neuroimaging, what are we talking about?  [*Christophe Phillips*](https://www.uliege.be/cms/c_9054334/en/directory?uid=U016440)
 2. Cross-validation, how do we assess predictive performance?  [*Pradeep Reddy Raamana*](https://crossinvalidation.com/)
 3. Confounding variables, how do we account for them? [*Janaina Mourao-Miranda*](http://www.mlnl.cs.ucl.ac.uk/)
-4. How do we test our hypothesis? A permutation approach. *Joram Soch*
+4. How do we test our hypothesis? A permutation approach. [*Joram Soch*](https://orcid.org/0000-0002-8879-5666)
 5. How do we test our hypothesis? A Bayesian approach. [*Emanuele Olivetti*](https://nilab.fbk.eu)
 6. What makes a good multivariate model for fMRI-based decoding?  [*Bertrand Thirion*](https://team.inria.fr/parietal)
 7. Undefined labels? Try unsupervised approaches! [*Valeria Kebets*](https://orcid.org/0000-0003-1707-7437)
@@ -54,7 +54,7 @@ Find here the description of each lecture, associated material and speaker's det
 |                                                              |
 
 #### Cross-validation, how do we assess predictive performance?
-( [slides](https://crossinvalidation.com/2020/06/04/unambiguous-terminology-for-data-splits-in-nested-cross-validation-cv-training-tuning-and-reporting-sets/) & video [coming soon])
+( [slides](https://crossinvalidation.com/2020/06/04/unambiguous-terminology-for-data-splits-in-nested-cross-validation-cv-training-tuning-and-reporting-sets/) & video)
 
 | Decoding calls for measuring the predictive power of a decoder. It may be used to tune parameters of the decoder to improve it. Cross-validation is the central tool for these purposes. This tutorial will go over cross-validation for decoding and address a few fundamental questions: <br/>- What exactly is cross-validation? Why do we need it in our machine learning studies? <br/>- What are the different types of CV, and how do they compare to each other? <br/>- How to measure and compare predictive performance, and how not to? <br/>- What are the key terminologies one needs to be aware of (overfitting, different performance metrics, sources of bias, etc.)?  |
 | :----------------------------------------------------------- |
@@ -72,16 +72,16 @@ Find here the description of each lecture, associated material and speaker's det
 |                                                              |
 
 #### How do we test our hypothesis? A permutation approach
-(slides & video)
+([slides](Material/OHBM2020_Test_Hypotheses_Permutation_Soch_Joram.pdf) & video)
 
-| With the adoption of novel analysis methods beyond the classical GLM-based approach including multivariate pattern analysis, there is an increasing need for hypothesis tests that make only weak distributional assumptions, in particular permutation tests. In this talk I will give an introduction to permutation tests from the ground up, giving practitioners clear guidelines on how to design and implement them.<br/>The talk will cover the following topics: <br/>1. A basic example and the formal procedure to perform a permutation test; <br/>2. Exchangeability as the assumption underlying permutation tests; <br/>3. Examples: univariate and multivariate two-sample and paired tests; <br/>4. Limited exchangeability in fMRI time series, randomization test and exchangeability of run-wise estimates; <br/>5. Further topics: multiple comparisons, extensions based on mirror symmetry and sphericity. <br/>To improve audience engagement, after the first, second, and fourth section listeners will be given the opportunity to ask questions (in addition to questions after the whole talk).  |
+| With the adoption of novel analysis methods beyond the classical GLM-based approach including multivariate pattern analysis, there is an increasing need for hypothesis tests that make only weak distributional assumptions, in particular permutation tests. In this talk I will give an introduction to permutation tests from the ground up, giving practitioners clear guidelines on how to design and implement them. <br/> The talk will cover the following topics: <br/> 1. A basic example and the formal procedure to perform a permutation test; <br/> 2. Exchangeability as the assumption underlying permutation tests; <br/> 3. Examples: univariate and multivariate two-sample and paired tests; <br/> 4. Limited exchangeability in fMRI time series, randomization test and exchangeability of run-wise estimates; <br/> 5. Further topics: multiple comparisons, extensions based on mirror symmetry and sphericity. |
 | :----------------------------------------------------------- |
 |                                                              |
-| by *Joram Soch* |
+| by [*Joram Soch*](https://orcid.org/0000-0002-8879-5666); [Twitter](https://twitter.com/JoramSoch), [GitHub](https://github.com/JoramSoch) & [Google Scholar](https://scholar.google.de/citations?user=0sEBiAIAAAAJ) |
 |                                                              |
 
 
-#### How do we test our hypotheses? a Bayesian approach.
+#### How do we test our hypotheses? A Bayesian approach
 ([slides](Material/OHBM2020_Test_Hypotheses_Bayesian_Emanuele_Olivetti.pdf), [GitHub](https://github.com/emanuele/ohbm2020_bayesian) & video)
 
 | The decoding of neural correlates is a task of primary interest in many neuroscientific investigations where typically, the subject is presented with a set of stimuli and a classification algorithm is used to extract stimulus-related information from the neuroimaging data.<br />Frequently, in those investigations, the final outcome of the inferential process is a test of hypotheses to quantify the evidence extracted by the classifier to support the neuroscientific claims. In this tutorial, we present the Bayesian way to test hypotheses on the results of a classification-based pipeline of analysis. Specifically, we describe the comparison of Bayesian hypothesis testing with the classical test of hypotheses, discussing the pros and cons. Moreover, we may show how to conduct the Bayesian test in case of multiple categories of stimulus and multiple subjects. |
@@ -132,10 +132,8 @@ Find here the description of each lecture, associated material and speaker's det
 | Despite the resounding success of deep learning in many fields, recent studies have suggested that for certain applications, classical machine learning algorithms might achieve comparable performance at significantly lower computational cost. In this educational course, we will start by discussing such examples, including earthquake prediction and our own work on functional connectivity prediction of behavior. Along the way, we will also discuss various issues that might arise from comparing different algorithms and I will also speculate about various classes of neuroimaging problems, in which DNNs might excel in relative to classical approaches. |
 | :----------------------------------------------------------- |
 |                                                              |
-| by [*Thomas Yeo*](https://sites.google.com/view/yeolab), [Twitter](https://twitter.com/bttyeo) & [GoogleScholar](https://scholar.google.com/citations?user=BOUzsU8AAAAJ&hl) |
+| by [*Thomas Yeo*](https://sites.google.com/view/yeolab), [Twitter](https://twitter.com/bttyeo) & [Google Scholar](https://scholar.google.com/citations?user=BOUzsU8AAAAJ&hl) |
 |                                                              |
 
 
-
-
-The page is [here](https://cyclotronresearchcentre.github.io/OHBM2020_ML4NI/).
+This page is [here](https://cyclotronresearchcentre.github.io/OHBM2020_ML4NI/).
