@@ -1,4 +1,4 @@
-# Machine learning for neuroimaging
+# Machine learning for neuroImaging
 ## Learn the basics before going deeper.
 
 [TOC]
