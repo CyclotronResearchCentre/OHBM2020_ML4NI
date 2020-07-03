@@ -1,4 +1,4 @@
-# Machine learning for neuroImaging
+# Machine Learning for NeuroImaging
 ## Learn the basics before going deeper.
 
 [TOC]
@@ -136,4 +136,4 @@ Find here the description of each lecture, associated material and speaker's det
 |                                                              |
 
 
-This page is [here](https://cyclotronresearchcentre.github.io/OHBM2020_ML4NI/).
+The rendering of this page is [here](https://cyclotronresearchcentre.github.io/OHBM2020_ML4NI/).
