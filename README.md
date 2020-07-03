@@ -3,7 +3,9 @@
 
 [TOC]
 
-OHBM 2020 Educational Course _Machine learning for Neuroimaging: learn the basics before going deeper_ ([introductory slides](Material/OHBM2020_Educ_ML4NI_Introdution_C_Phillips.pdf)).
+OHBM 2020 Educational Course _Machine learning for Neuroimaging: learn the basics before going deeper_ ([introductory slides](Material/OHBM2020_Educ_ML4NI_Introdution_C_Phillips.pdf)). <sup>[1](#myfootnote1)</sup>
+
+(Note that the videos of  the course from OHBM2018 are available [here](OHBM2018_PR4NI_ondemand_videos.md))
 
 ### Course description
 
@@ -137,3 +139,5 @@ Find here the description of each lecture, associated material and speaker's det
 
 
 The rendering of this page is [here](https://cyclotronresearchcentre.github.io/OHBM2020_ML4NI/).
+
+<a name="myfootnote1">1</a>: Note that the videos of  the course from OHBM2018 are available [here](OHBM2018_PR4NI_ondemand_videos.md).
