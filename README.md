@@ -64,7 +64,7 @@ Find here the description of each lecture, associated material and speaker's det
 |                                                              |
 
 #### Confounding variables, how do we account for them?
-(slides & video)
+([slides](Material/OHBM2020_Educ_ML4NI_2020_Confounds_JMM.pdf) & video)
 
 | The presence of confounds is a common problem in neuroimaging studies. Confounds, also known as covariates, are variables that affect the imaging data but whose effect we are not interested in studying (e.g. scanner, gender, age). There is a lot of evidence that confounds can strongly affect the performance of neuroimaging-based machine learning models and a number of approaches have been proposed to deal problem. This talk will describe the problem of confounds focusing on clinical neuroimaging studies, present different approaches to deal the problem and discuss their advantages and limitations. |
 | :----------------------------------------------------------- |
