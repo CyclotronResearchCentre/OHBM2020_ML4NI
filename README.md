@@ -110,12 +110,12 @@ Find here the description of each lecture, associated material and speaker's det
 |                                                              |
 
 #### Deep Learning for Neuroimaging: What are we talking about?
-(slides & video)
+([slides](Material/OHBM2020_Educ_ML4NI_DeepLern_PKD_v1.pdf) & video)
 
 | Linear models have been the gold standard for both encoding and decoding models in functional neuroimaging for many years, and in certain cases may outperform more complex classifiers.  However, even linear models are difficult to interpret and their performance may depend significantly on feature selection.  In contrast, deep learning approaches allow multiple layers of processing to discover the underlying representations in the data across levels of abstraction, and have recently brought about numerous breakthroughs in computer vision and related fields. Here, we introduce the key theoretical principles related to deep learning, and review how their evolution over time has been inspired by neural computation in biology. |
 | :----------------------------------------------------------- |
 |                                                              |
-|   by *Pamela Douglas* |
+|   by *Pamela Douglas*, [Twitter](https://twitter.com/pkdouglas16) & [Google Scholar](https://scholar.google.com/citations?user=Bi3cswkAAAAJ&hl=en) |
 |                                                              |
 
 #### From machine learning to deep learning, how do we ensure objective and reproducible evaluations?
