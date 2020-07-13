@@ -32,20 +32,18 @@ The target audience would consist of neuroscientists with intermediate to advanc
 
 The course is composed of 10 complementary lectures, grouped into 3 parts on the [OHBM conference platform](https://ohbm.6connex.com/event/OHBMAnnualMeeting/en-us?shared=true#!/EducationCourses/n452639):
 - [Part 1](https://ohbm.6connex.com/event/OHBMAnnualMeeting/en-us?shared=true#!/EducationCourses/n452639/c224074) includes a short introduction to the course and lectures
-  1. [Machine learning in neuroimaging, what are we talking about?](#1-Machine-learning-in-neuroimaging-what-are-we-talking-about) by [*Christophe Phillips*](https://www.uliege.be/cms/c_9054334/en/directory?uid=U016440)
-  2. [Cross-validation, how do we assess predictive performance?](#2-Cross-validation-how-do-we-assess-predictive-performance) by [*Pradeep Reddy Raamana*](https://crossinvalidation.com/)
-  3. [Confounding variables, how do we account for them?](#3-Confounding-variables-how-do-we-account-for-them) by [*Janaina Mourao-Miranda*](http://www.mlnl.cs.ucl.ac.uk/)
+  - [Machine learning in neuroimaging, what are we talking about?](#1-machine-learning-in-neuroimaging-what-are-we-talking-about) by [*Christophe Phillips*](https://www.uliege.be/cms/c_9054334/en/directory?uid=U016440)
+  - [Cross-validation, how do we assess predictive performance?](#2-cross-validation-how-do-we-assess-predictive-performance) by [*Pradeep Reddy Raamana*](https://crossinvalidation.com/)
+  - [Confounding variables, how do we account for them?](#3-confounding-variables-how-do-we-account-for-them) by [*Janaina Mourao-Miranda*](http://www.mlnl.cs.ucl.ac.uk/)
 - [Part 2](https://ohbm.6connex.com/event/OHBMAnnualMeeting/en-us?shared=true#!/EducationCourses/n452639/c224135) includes lectures
-  4. [How do we test our hypothesis? A permutation approach.](#4-how-do-we-test-our-hypothesis-a-permutation-approach) by [*Joram Soch*](https://orcid.org/0000-0002-8879-5666)
-  5. [How do we test our hypothesis? A Bayesian approach.](#5-how-do-we-test-our-hypothesis-a-bayesian-approach) by [*Emanuele Olivetti*](https://nilab.fbk.eu)
-  6. [What makes a good multivariate model for fMRI-based decoding?](#6-what-makes-a-good-multivariate-model-for-fmri-based-decoding) by  [*Bertrand Thirion*](https://team.inria.fr/parietal)
-  7. [Undefined labels? Try unsupervised approaches!](#7-undefined-labels-try-unsupervised-approaches) by [*Valeria Kebets*](https://orcid.org/0000-0003-1707-7437)
+  - [How do we test our hypothesis? A permutation approach.](#4-how-do-we-test-our-hypothesis-a-permutation-approach) by [*Joram Soch*](https://orcid.org/0000-0002-8879-5666)
+  - [How do we test our hypothesis? A Bayesian approach.](#5-how-do-we-test-our-hypothesis-a-bayesian-approach) by [*Emanuele Olivetti*](https://nilab.fbk.eu)
+  - [What makes a good multivariate model for fMRI-based decoding?](#6-what-makes-a-good-multivariate-model-for-fmri-based-decoding) by [*Bertrand Thirion*](https://team.inria.fr/parietal)
+  - [Undefined labels? Try unsupervised approaches!](#7-undefined-labels-try-unsupervised-approaches) by [*Valeria Kebets*](https://orcid.org/0000-0003-1707-7437)
 - [Part 3](https://ohbm.6connex.com/event/OHBMAnnualMeeting/en-us?shared=true#!/EducationCourses/n452639/c251408) includes lectures
-  8. [Deep Learning for Neuroimaging: What are we talking about?](#8-deep-learning-for-neuroimaging-what-are-we-talking-about) by [*Pamela Douglas*](https://orcid.org/0000-0003-2277-7526)
-  9. [From machine learning to deep learning, how do we ensure objective and reproducible evaluations?](#9-from-machine-learning-to-deep-learning-how-do-we-ensure-objective-and-reproducible-evaluations) by [*Ninon Burgos*](https://ninonburgos.com/)
-  10. [Why is this educational course not fully devoted to deep learning?](#10-why-is-this-educational-course-not-fully-devoted-to-deep-learning) by [*Thomas Yeo*](https://sites.google.com/view/yeolab)
-
-
+  - [Deep Learning for Neuroimaging: What are we talking about?](#8-deep-learning-for-neuroimaging-what-are-we-talking-about) by [*Pamela Douglas*](https://orcid.org/0000-0003-2277-7526)
+  - [From machine learning to deep learning, how do we ensure objective and reproducible evaluations?](#9-from-machine-learning-to-deep-learning-how-do-we-ensure-objective-and-reproducible-evaluations) by [*Ninon Burgos*](https://ninonburgos.com/)
+  - [Why is this educational course not fully devoted to deep learning?](#10-why-is-this-educational-course-not-fully-devoted-to-deep-learning) by [*Thomas Yeo*](https://sites.google.com/view/yeolab)
 
 Find here the description of each lecture, associated material and speaker's details:
 
