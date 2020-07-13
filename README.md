@@ -1,10 +1,14 @@
 # Machine Learning for NeuroImaging
 ## Learn the basics before going deeper.
 
-[TOC]
+
+---
 
 OHBM 2020 Educational Course _Machine learning for Neuroimaging: learn the basics before going deeper_ ([introductory slides](Material/OHBM2020_Educ_ML4NI_Introdution_C_Phillips.pdf)).<sup>[1](#myfootnote1)</sup>
+- [Course description](#course-description)
+- [Course content](#course-content)
 
+---
 
 ### Course description
 
