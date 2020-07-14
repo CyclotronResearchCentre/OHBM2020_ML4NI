@@ -7,6 +7,7 @@
 OHBM 2020 Educational Course _Machine learning for Neuroimaging: learn the basics before going deeper_ ([introductory slides](Material/OHBM2020_Educ_ML4NI_Introdution_C_Phillips.pdf)).<sup>[1](#myfootnote1)</sup>
 - [Course description](#course-description)
 - [Course content](#course-content)
+- [Engagement Lounge, aka. "Questions & Answers"](#engagement-lounge-aka-questions-and-answers)
 
 ---
 
@@ -142,8 +143,17 @@ Find here the description of each lecture, associated material and speaker's det
 | by [*Thomas Yeo*](https://sites.google.com/view/yeolab), [Twitter](https://twitter.com/bttyeo) & [Google Scholar](https://scholar.google.com/citations?user=BOUzsU8AAAAJ&hl) |
 |                                                              |
 
-The rendering of this page is [here](https://cyclotronresearchcentre.github.io/OHBM2020_ML4NI/).
+---
+
+### Engagement Lounge, aka. "Questions and Answers"
+
+The Engagement Lounge will be open on Friday July 17 at 4.00H New York, 10.00H Paris, 16.00H Beijing. Most speakers should be around to answer your questions and discuss what comes up.
+
+We will use this virtual [WebEx meeting room](https://uliege.webex.com/uliege/j.php?MTID=m316d12b7d35756777730ba22ff15e727 ).
 
 ---
 
 <a name="myfootnote1">1</a>: Note that the videos of  the course from OHBM2018 are available [here](OHBM2018_PR4NI_ondemand_videos.md).
+
+---
+The rendering of this page is [here](https://cyclotronresearchcentre.github.io/OHBM2020_ML4NI/).
