@@ -147,9 +147,12 @@ Find here the description of each lecture, associated material and speaker's det
 
 ### Engagement Lounge, aka. "Questions and Answers"
 
-The Engagement Lounge will be open on Friday July 17 at 4.00H New York, 10.00H Paris, 16.00H Beijing. Most speakers should be around to answer your questions and discuss what comes up.
+The Engagement Lounge will be open on **Friday July 17 at 4.00H New York, 10.00H Paris, 16.00H Beijing**. Most speakers should be around to answer your questions and discuss what comes up.
 
-We will use this virtual [WebEx meeting room](https://uliege.webex.com/uliege/j.php?MTID=m316d12b7d35756777730ba22ff15e727) for the general discussion.
+We will use this virtual [WebEx meeting room](https://uliege.webex.com/uliege/j.php?MTID=m316d12b7d35756777730ba22ff15e727) for the general discussion. 
+Plus the following topic specific virtual meeting rooms, as organized by lecturer:
+
+- [Emmanuele's room](https://edu.meet.garr.it/ml4ni) for his "[How do we test our hypothesis? A Bayesian approach.](#5-how-do-we-test-our-hypothesis-a-bayesian-approach)" lecture
 
 ---
 
