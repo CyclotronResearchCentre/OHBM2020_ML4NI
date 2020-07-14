@@ -149,7 +149,7 @@ Find here the description of each lecture, associated material and speaker's det
 
 The Engagement Lounge will be open on Friday July 17 at 4.00H New York, 10.00H Paris, 16.00H Beijing. Most speakers should be around to answer your questions and discuss what comes up.
 
-We will use this virtual [WebEx meeting room](https://uliege.webex.com/uliege/j.php?MTID=m316d12b7d35756777730ba22ff15e727 ).
+We will use this virtual [WebEx meeting room](https://uliege.webex.com/uliege/j.php?MTID=m316d12b7d35756777730ba22ff15e727) for the general discussion.
 
 ---
 
