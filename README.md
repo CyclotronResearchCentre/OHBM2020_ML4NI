@@ -153,6 +153,8 @@ We will use this virtual [WebEx meeting room](https://uliege.webex.com/uliege/j.
 Plus the following topic specific virtual meeting rooms, as organized by lecturer:
 
 - [Emmanuele's room](https://edu.meet.garr.it/ml4ni) for his "[How do we test our hypothesis? A Bayesian approach.](#5-how-do-we-test-our-hypothesis-a-bayesian-approach)" lecture
+- [Ninon's room](https://icm-institute.zoom.us/j/92456800626?pwd=RmZMYm9iNDRkMDVQN1JST0ZyZjlTUT09) for her "[From machine learning to deep learning, how do we ensure objective and reproducible evaluations?](#9-from-machine-learning-to-deep-learning-how-do-we-ensure-objective-and-reproducible-evaluations)" lecture
+
 
 ---
 
