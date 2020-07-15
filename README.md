@@ -4,10 +4,14 @@
 
 ---
 
-OHBM 2020 Educational Course _Machine learning for Neuroimaging: learn the basics before going deeper_ ([introductory slides](Material/OHBM2020_Educ_ML4NI_Introdution_C_Phillips.pdf)).<sup>[1](#myfootnote1)</sup>
+OHBM 2020 Educational Course _Machine learning for Neuroimaging: learn the basics before going deeper_ ([introductory slides](Material/OHBM2020_Educ_ML4NI_Introdution_C_Phillips.pdf)).
 - [Course description](#course-description)
 - [Course content](#course-content)
 - [Engagement Lounge, aka. "Questions & Answers"](#engagement-lounge-aka-questions-and-answers)
+
+
+
+By the way the videos of  the course from OHBM2018 in Singapore are listed [here](OHBM2018_PR4NI_ondemand_videos.md) and are directly available in the OnDemand space of OHBM.
 
 ---
 
@@ -152,13 +156,11 @@ The Engagement Lounge will be open on **Friday July 17 at 4.00H New York, 10.00H
 We will use this virtual [WebEx meeting room](https://uliege.webex.com/uliege/j.php?MTID=m316d12b7d35756777730ba22ff15e727) for the general discussion. 
 Plus the following topic specific virtual meeting rooms, as organized by lecturer:
 
-- [Emmanuele's room](https://edu.meet.garr.it/ml4ni) for his "[How do we test our hypothesis? A Bayesian approach.](#5-how-do-we-test-our-hypothesis-a-bayesian-approach)" lecture
-- [Ninon's room](https://icm-institute.zoom.us/j/92456800626?pwd=RmZMYm9iNDRkMDVQN1JST0ZyZjlTUT09) for her "[From machine learning to deep learning, how do we ensure objective and reproducible evaluations?](#9-from-machine-learning-to-deep-learning-how-do-we-ensure-objective-and-reproducible-evaluations)" lecture
+- [Emmanuele's room](https://edu.meet.garr.it/ml4ni) for his "[How do we test our hypothesis? A Bayesian approach.](#5-how-do-we-test-our-hypothesis-a-bayesian-approach)" lecture;
+- [Valeria's room](https://nus-sg.zoom.us/j/4712338228?pwd=NFg3OHhGaTQwazN4WHp1ckNaOHFQdz09) for her "[Undefined labels? Try unsupervised approaches!](#7-undefined-labels-try-unsupervised-approaches)" lecture;
+- [Ninon's room](https://icm-institute.zoom.us/j/92456800626?pwd=RmZMYm9iNDRkMDVQN1JST0ZyZjlTUT09) for her "[From machine learning to deep learning, how do we ensure objective and reproducible evaluations?](#9-from-machine-learning-to-deep-learning-how-do-we-ensure-objective-and-reproducible-evaluations)" lecture.
 
 
 ---
 
-<a name="myfootnote1">1</a>: Note that the videos of  the course from OHBM2018 are available [here](OHBM2018_PR4NI_ondemand_videos.md).
-
----
 The rendering of this page is [here](https://cyclotronresearchcentre.github.io/OHBM2020_ML4NI/).
