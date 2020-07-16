@@ -156,10 +156,10 @@ The Engagement Lounge will be open on **Friday July 17 at 4.00H New York, 10.00H
 We will use this virtual [WebEx meeting room](https://uliege.webex.com/uliege/j.php?MTID=m316d12b7d35756777730ba22ff15e727) for the general discussion. 
 Plus the following topic specific virtual meeting rooms, as organized by lecturer:
 
+- [Joram's room](https://us02web.zoom.us/j/5464330970?pwd=WW9yZkkxVkM4RG51WGdQK3UrSGtPQT09) (PW: 104649) for his "[How do we test our hypothesis? A permutation approach.](#4-how-do-we-test-our-hypothesis-a-permutation-approach)" lecture;
 - [Emmanuele's room](https://edu.meet.garr.it/ml4ni) for his "[How do we test our hypothesis? A Bayesian approach.](#5-how-do-we-test-our-hypothesis-a-bayesian-approach)" lecture;
 - [Valeria's room](https://nus-sg.zoom.us/j/4712338228?pwd=NFg3OHhGaTQwazN4WHp1ckNaOHFQdz09) for her "[Undefined labels? Try unsupervised approaches!](#7-undefined-labels-try-unsupervised-approaches)" lecture;
 - [Ninon's room](https://icm-institute.zoom.us/j/92456800626?pwd=RmZMYm9iNDRkMDVQN1JST0ZyZjlTUT09) for her "[From machine learning to deep learning, how do we ensure objective and reproducible evaluations?](#9-from-machine-learning-to-deep-learning-how-do-we-ensure-objective-and-reproducible-evaluations)" lecture.
-
 
 ---
 
