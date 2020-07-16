@@ -1,9 +1,19 @@
-# Machine learning for neuroimaging
+# Machine Learning for NeuroImaging
 ## Learn the basics before going deeper.
 
-[TOC]
+
+---
 
 OHBM 2020 Educational Course _Machine learning for Neuroimaging: learn the basics before going deeper_ ([introductory slides](Material/OHBM2020_Educ_ML4NI_Introdution_C_Phillips.pdf)).
+- [Course description](#course-description)
+- [Course content](#course-content)
+- [Engagement Lounge, aka. "Questions & Answers"](#engagement-lounge-aka-questions-and-answers)
+
+
+
+By the way the videos of  the course from OHBM2018 in Singapore are listed [here](OHBM2018_PR4NI_ondemand_videos.md) and are directly available in the OnDemand space of OHBM.
+
+---
 
 ### Course description
 
@@ -29,23 +39,25 @@ The target audience would consist of neuroscientists with intermediate to advanc
 ---
 ### Course content
 
-The course is composed of 10 complementary lectures:
+The course is composed of 10 complementary lectures, grouped into 3 parts on the [OHBM conference platform](https://ohbm.6connex.com/event/OHBMAnnualMeeting/en-us?shared=true#!/EducationCourses/n452639):
+- [Part 1](https://ohbm.6connex.com/event/OHBMAnnualMeeting/en-us?shared=true#!/EducationCourses/n452639/c224074) includes a short introduction to the course and lectures
+  - [Machine learning in neuroimaging, what are we talking about?](#1-machine-learning-in-neuroimaging-what-are-we-talking-about) by [*Christophe Phillips*](https://www.uliege.be/cms/c_9054334/en/directory?uid=U016440)
+  - [Cross-validation, how do we assess predictive performance?](#2-cross-validation-how-do-we-assess-predictive-performance) by [*Pradeep Reddy Raamana*](https://crossinvalidation.com/)
+  - [Confounding variables, how do we account for them?](#3-confounding-variables-how-do-we-account-for-them) by [*Janaina Mourao-Miranda*](http://www.mlnl.cs.ucl.ac.uk/)
+- [Part 2](https://ohbm.6connex.com/event/OHBMAnnualMeeting/en-us?shared=true#!/EducationCourses/n452639/c224135) includes lectures
+  - [How do we test our hypothesis? A permutation approach.](#4-how-do-we-test-our-hypothesis-a-permutation-approach) by [*Joram Soch*](https://orcid.org/0000-0002-8879-5666)
+  - [How do we test our hypothesis? A Bayesian approach.](#5-how-do-we-test-our-hypothesis-a-bayesian-approach) by [*Emanuele Olivetti*](https://nilab.fbk.eu)
+  - [What makes a good multivariate model for fMRI-based decoding?](#6-what-makes-a-good-multivariate-model-for-fmri-based-decoding) by [*Bertrand Thirion*](https://team.inria.fr/parietal)
+  - [Undefined labels? Try unsupervised approaches!](#7-undefined-labels-try-unsupervised-approaches) by [*Valeria Kebets*](https://orcid.org/0000-0003-1707-7437)
+- [Part 3](https://ohbm.6connex.com/event/OHBMAnnualMeeting/en-us?shared=true#!/EducationCourses/n452639/c251408) includes lectures
+  - [Deep Learning for Neuroimaging: What are we talking about?](#8-deep-learning-for-neuroimaging-what-are-we-talking-about) by [*Pamela Douglas*](https://orcid.org/0000-0003-2277-7526)
+  - [From machine learning to deep learning, how do we ensure objective and reproducible evaluations?](#9-from-machine-learning-to-deep-learning-how-do-we-ensure-objective-and-reproducible-evaluations) by [*Ninon Burgos*](https://ninonburgos.com/)
+  - [Why is this educational course not fully devoted to deep learning?](#10-why-is-this-educational-course-not-fully-devoted-to-deep-learning) by [*Thomas Yeo*](https://sites.google.com/view/yeolab)
 
-1. Machine learning in neuroimaging, what are we talking about?  [*Christophe Phillips*](https://www.uliege.be/cms/c_9054334/en/directory?uid=U016440)
-2. Cross-validation, how do we assess predictive performance?  [*Pradeep Reddy Raamana*](https://crossinvalidation.com/)
-3. Confounding variables, how do we account for them? [*Janaina Mourao-Miranda*](http://www.mlnl.cs.ucl.ac.uk/)
-4. How do we test our hypothesis? A permutation approach. [*Joram Soch*](https://orcid.org/0000-0002-8879-5666)
-5. How do we test our hypothesis? A Bayesian approach. [*Emanuele Olivetti*](https://nilab.fbk.eu)
-6. What makes a good multivariate model for fMRI-based decoding?  [*Bertrand Thirion*](https://team.inria.fr/parietal)
-7. Undefined labels? Try unsupervised approaches! [*Valeria Kebets*](https://orcid.org/0000-0003-1707-7437)
-8. Deep Learning for Neuroimaging: What are we talking about? *Pamela Douglas*
-9. From machine learning to deep learning, how do we ensure objective and reproducible evaluations? [*Ninon Burgos*](https://ninonburgos.com/)
-10. Why is this educational course not fully devoted to deep learning? [*Thomas Yeo*](https://sites.google.com/view/yeolab)
+Find here the description of each lecture, associated material and speaker's details:
 
-Find here the description of each lecture, associated material and speaker's details.
-
-#### Machine learning in neuroimaging, what are we talking about?  
-([slides](Material/OHBM2020_Educ_ML4NI_MLfundamentals_C_Phillips_static.pdf) & video)
+#### 1. Machine learning in neuroimaging, what are we talking about?  
+([slides](Material/OHBM2020_Educ_ML4NI_MLfundamentals_C_Phillips_static.pdf) & [video](https://ohbm.6connex.com/event/OHBMAnnualMeeting/en-us?shared=true#!/EducationCourses/n452639/c224074))
 
 | This introductory lecture describes the basic principles of machine learning (ML) and how these tools can be applied to neuroimaging data. These will focus on label or parameter prediction, i.e. classification or regression models, of subjects' whole brain images. First these approaches will be compared to standard univariate GLM approaches. Then data representation, as samples and sets of features, and the principles of supervised & unsupervised machine learning are introduced. The talk will also introduce standard ML approaches, e.g. kernel methods, and how their performance is assessed. The issues of generalizability and inference are central: how well can we predict unseen data? and are we performing above chance level? <br/>Most of these points will be further developed in the following talks. |
 | :----------------------------------------------------------- |
@@ -53,8 +65,8 @@ Find here the description of each lecture, associated material and speaker's det
 | by [*Christophe Phillips*](https://www.uliege.be/cms/c_9054334/en/directory?uid=U016440), [Twitter](https://twitter.com/Ch_Phillips) & [Google Scholar](https://scholar.google.be/citations?hl=en&user=U6i6DFYAAAAJ). |
 |                                                              |
 
-#### Cross-validation, how do we assess predictive performance?
-( [slides](https://crossinvalidation.com/2020/06/04/unambiguous-terminology-for-data-splits-in-nested-cross-validation-cv-training-tuning-and-reporting-sets/) & video)
+#### 2. Cross-validation, how do we assess predictive performance?
+( [slides](https://crossinvalidation.com/2020/06/04/unambiguous-terminology-for-data-splits-in-nested-cross-validation-cv-training-tuning-and-reporting-sets/) & [video](https://ohbm.6connex.com/event/OHBMAnnualMeeting/en-us?shared=true#!/EducationCourses/n452639/c224074))
 
 | Decoding calls for measuring the predictive power of a decoder. It may be used to tune parameters of the decoder to improve it. Cross-validation is the central tool for these purposes. This tutorial will go over cross-validation for decoding and address a few fundamental questions: <br/>- What exactly is cross-validation? Why do we need it in our machine learning studies? <br/>- What are the different types of CV, and how do they compare to each other? <br/>- How to measure and compare predictive performance, and how not to? <br/>- What are the key terminologies one needs to be aware of (overfitting, different performance metrics, sources of bias, etc.)?  |
 | :----------------------------------------------------------- |
@@ -62,8 +74,8 @@ Find here the description of each lecture, associated material and speaker's det
 | by [*Pradeep Reddy Raamana*](https://crossinvalidation.com), [Twitter](https://twitter.com/Raamana_) & [Google Scholar](https://scholar.google.ca/citations?user=Enxh8xcAAAAJ&hl=en)|
 |                                                              |
 
-#### Confounding variables, how do we account for them?
-(slides & video)
+#### 3. Confounding variables, how do we account for them?
+([slides](Material/OHBM2020_Educ_ML4NI_2020_Confounds_JMM.pdf) & [video](https://ohbm.6connex.com/event/OHBMAnnualMeeting/en-us?shared=true#!/EducationCourses/n452639/c224074))
 
 | The presence of confounds is a common problem in neuroimaging studies. Confounds, also known as covariates, are variables that affect the imaging data but whose effect we are not interested in studying (e.g. scanner, gender, age). There is a lot of evidence that confounds can strongly affect the performance of neuroimaging-based machine learning models and a number of approaches have been proposed to deal problem. This talk will describe the problem of confounds focusing on clinical neuroimaging studies, present different approaches to deal the problem and discuss their advantages and limitations. |
 | :----------------------------------------------------------- |
@@ -71,8 +83,8 @@ Find here the description of each lecture, associated material and speaker's det
 | by [*Janaina Mourao-Miranda*](http://www.mlnl.cs.ucl.ac.uk/), [Twitter](https://twitter.com/MouraoMiranda) & [Google Scholar](https://scholar.google.be/citations?hl=en&user=CeWaBjcAAAAJ). |
 |                                                              |
 
-#### How do we test our hypothesis? A permutation approach
-([slides](Material/OHBM2020_Test_Hypotheses_Permutation_Soch_Joram.pdf) & video)
+#### 4. How do we test our hypothesis? A permutation approach
+([slides](Material/OHBM2020_Test_Hypotheses_Permutation_Soch_Joram.pdf) & [video](https://ohbm.6connex.com/event/OHBMAnnualMeeting/en-us?shared=true#!/EducationCourses/n452639/c224135))
 
 | With the adoption of novel analysis methods beyond the classical GLM-based approach including multivariate pattern analysis, there is an increasing need for hypothesis tests that make only weak distributional assumptions, in particular permutation tests. In this talk I will give an introduction to permutation tests from the ground up, giving practitioners clear guidelines on how to design and implement them. <br/> The talk will cover the following topics: <br/> 1. A basic example and the formal procedure to perform a permutation test; <br/> 2. Exchangeability as the assumption underlying permutation tests; <br/> 3. Examples: univariate and multivariate two-sample and paired tests; <br/> 4. Limited exchangeability in fMRI time series, randomization test and exchangeability of run-wise estimates; <br/> 5. Further topics: multiple comparisons, extensions based on mirror symmetry and sphericity. |
 | :----------------------------------------------------------- |
@@ -81,8 +93,8 @@ Find here the description of each lecture, associated material and speaker's det
 |                                                              |
 
 
-#### How do we test our hypotheses? A Bayesian approach
-([slides](Material/OHBM2020_Test_Hypotheses_Bayesian_Emanuele_Olivetti.pdf), [GitHub](https://github.com/emanuele/ohbm2020_bayesian) & video)
+#### 5. How do we test our hypothesis? A Bayesian approach
+([slides](Material/OHBM2020_Test_Hypotheses_Bayesian_Emanuele_Olivetti.pdf), [GitHub](https://github.com/emanuele/ohbm2020_bayesian) & [video](https://ohbm.6connex.com/event/OHBMAnnualMeeting/en-us?shared=true#!/EducationCourses/n452639/c224135))
 
 | The decoding of neural correlates is a task of primary interest in many neuroscientific investigations where typically, the subject is presented with a set of stimuli and a classification algorithm is used to extract stimulus-related information from the neuroimaging data.<br />Frequently, in those investigations, the final outcome of the inferential process is a test of hypotheses to quantify the evidence extracted by the classifier to support the neuroscientific claims. In this tutorial, we present the Bayesian way to test hypotheses on the results of a classification-based pipeline of analysis. Specifically, we describe the comparison of Bayesian hypothesis testing with the classical test of hypotheses, discussing the pros and cons. Moreover, we may show how to conduct the Bayesian test in case of multiple categories of stimulus and multiple subjects. |
 | :----------------------------------------------------------- |
@@ -90,8 +102,8 @@ Find here the description of each lecture, associated material and speaker's det
 |   by [*Emanuele Olivetti*](https://nilab.fbk.eu), [Twitter](https://twitter.com/0l1v3tt1) & [Google Scholar](https://scholar.google.it/citations?hl=en&user=XB5mpWwAAAAJ). |
 |                                                              |
 
-#### What makes a good multivariate model for fMRI-based decoding?
-([slides](Material/OHBM2020_Educ_ML4NI_multivariate_thirion.pdf) & video)
+#### 6. What makes a good multivariate model for fMRI-based decoding?
+([slides](Material/OHBM2020_Educ_ML4NI_multivariate_thirion.pdf) & [video](https://ohbm.6connex.com/event/OHBMAnnualMeeting/en-us?shared=true#!/EducationCourses/n452639/c224135))
 
 | Standard multivariate analyses yield two pieces of information: what  experimental manipulations are indeed reflected in brain activity, and with due caution, a characterization of the brain activity patterns  associated with these manipulations.  Performing some inference with pattern analysis model raises some caveats, in particular regarding  the reliability of the multivariate patterns obtained in this framework. <br/>In this talk, we will discuss in depth the differences between classical univariate and multivariate analyses, and analyze the pros and cons of either approach. We will describe the criteria that can be used to assess the classifiers in terms of accuracy, interpretability and stability.  We will then describe cheap, yet effective ways to improve the quality of the models using fast clustering schemes for  spatial regularization and model averaging. <br/>We will illustrate these concepts on datasets and accessible to the audience as Jupyter notebooks.  |
 | :----------------------------------------------------------- |
@@ -99,8 +111,8 @@ Find here the description of each lecture, associated material and speaker's det
 |  by [*Bertrand Thirion*](https://team.inria.fr/parietal), [Twitter](https://twitter.com/BertrandThirion) & [Google Scholar](https://scholar.google.com/citations?user=MeKi5_AAAAAJ&hl=fr). |
 |                                                              |
 
-#### Undefined labels? Try unsupervised approaches!
-([slides](Material/OHBM2020_Educ_ML4NI_unsupervised_labels_VKebets.pdf) & video)
+#### 7. Undefined labels? Try unsupervised approaches!
+([slides](Material/OHBM2020_Educ_ML4NI_unsupervised_labels_VKebets.pdf) & [video](https://ohbm.6connex.com/event/OHBMAnnualMeeting/en-us?shared=true#!/EducationCourses/n452639/c224135))
 
 | When labels are not clearly defined (e.g., in psychiatry, where boundaries between diagnostic categories can be unreliable), unsupervised methods can be useful for uncovering latent relationships between different data. We will first show how unsupervised methods can overcome certain limitations of supervised methods. Partial Least Squares (PLS) and Canonical Correlation Analysis (CCA) will be used to illustrate how to find multivariate relationships between neuroimaging and behavioral data in the form of latent components. These algorithms aim to maximize the covariance (PLS) / correlation (CCA) between two data matrices by deriving latent components that are optimally weighted linear combinations of the original variables. We will then show how to test the significance and generalizability of these latent components, using permutation testing and cross-validation. We will also demonstrate how to determine the robustness of the neuroimaging and behavioral variables that drive the latent relationships, using bootstrapping. |
 | :----------------------------------------------------------- |
@@ -108,17 +120,17 @@ Find here the description of each lecture, associated material and speaker's det
 |   by [*Valeria Kebets*](https://orcid.org/0000-0003-1707-7437), [Twitter](https://twitter.com/valeria_kebets) & [Google Scholar](https://scholar.google.com/citations?user=TTOxojwAAAAJ&hl=en&oi=ao). |
 |                                                              |
 
-#### Deep Learning for Neuroimaging: What are we talking about?
-(slides & video)
+#### 8. Deep Learning for Neuroimaging: What are we talking about?
+([slides](Material/OHBM2020_Educ_ML4NI_DeepLern_PKD_v1.pdf) & [video](https://ohbm.6connex.com/event/OHBMAnnualMeeting/en-us?shared=true#!/EducationCourses/n452639/c251408))
 
 | Linear models have been the gold standard for both encoding and decoding models in functional neuroimaging for many years, and in certain cases may outperform more complex classifiers.  However, even linear models are difficult to interpret and their performance may depend significantly on feature selection.  In contrast, deep learning approaches allow multiple layers of processing to discover the underlying representations in the data across levels of abstraction, and have recently brought about numerous breakthroughs in computer vision and related fields. Here, we introduce the key theoretical principles related to deep learning, and review how their evolution over time has been inspired by neural computation in biology. |
 | :----------------------------------------------------------- |
 |                                                              |
-|   by *Pamela Douglas* |
+|   by [*Pamela Douglas*](https://orcid.org/0000-0003-2277-7526), [Twitter](https://twitter.com/pkdouglas16) & [Google Scholar](https://scholar.google.com/citations?user=Bi3cswkAAAAJ&hl=en) |
 |                                                              |
 
-#### From machine learning to deep learning, how do we ensure objective and reproducible evaluations?
-([slides](Material/OHBM2020_Educ_ML4NI_Reproducible-evaluations-from-ML-to-DL_Burgos.pdf), [GitHub AD-ML](https://github.com/aramis-lab/AD-ML), [GitHub AD-DL](https://github.com/aramis-lab/AD-DL) & video)
+#### 9. From machine learning to deep learning, how do we ensure objective and reproducible evaluations?
+([slides](Material/OHBM2020_Educ_ML4NI_Reproducible-evaluations-from-ML-to-DL_Burgos.pdf), [GitHub AD-ML](https://github.com/aramis-lab/AD-ML), [GitHub AD-DL](https://github.com/aramis-lab/AD-DL) & [video](https://ohbm.6connex.com/event/OHBMAnnualMeeting/en-us?shared=true#!/EducationCourses/n452639/c251408))
 
 | Neuroimaging data have been increasingly used to characterize brain diseases, such as Alzheimer’s disease, schizophrenia or autism, by means of machine learning (ML) methods, offering promising tools for individualized diagnosis and prognosis. A large number of studies have proposed to use pre-extracted features from dedicated image processing pipelines followed by different types of classifiers, such as support vector machines or random forests. Recently, deep learning (DL), in which features are automatically learned by the model, has been proposed to assist diagnosis. <br />The aim of this lecture is to teach how to design and validate pattern recognition for clinical applications in brain diseases. The course will i) explain how to pre-process neuroimages and extract features, ii) describe several ML and DL classification strategies, and iii) detail good practices for rigorous, transparent and reproducible evaluation on clinical neuroimaging databases. |
 | :----------------------------------------------------------- |
@@ -126,8 +138,8 @@ Find here the description of each lecture, associated material and speaker's det
 |   by [*Ninon Burgos*](https://ninonburgos.com/), [Twitter](https://twitter.com/NinonBurgos) & [Google Scholar](https://scholar.google.com/citations?user=lHuYSU0AAAAJ).|
 |                                                              |
 
-#### Why is this educational course not fully devoted to deep learning?
-([slides](Material/OHBM2020_DeepLearning_yeo_condensed2.pdf) & video)
+#### 10. Why is this educational course not fully devoted to deep learning?
+([slides](Material/OHBM2020_DeepLearning_yeo_condensed2.pdf) & [video](https://ohbm.6connex.com/event/OHBMAnnualMeeting/en-us?shared=true#!/EducationCourses/n452639/c251408))
 
 | Despite the resounding success of deep learning in many fields, recent studies have suggested that for certain applications, classical machine learning algorithms might achieve comparable performance at significantly lower computational cost. In this educational course, we will start by discussing such examples, including earthquake prediction and our own work on functional connectivity prediction of behavior. Along the way, we will also discuss various issues that might arise from comparing different algorithms and I will also speculate about various classes of neuroimaging problems, in which DNNs might excel in relative to classical approaches. |
 | :----------------------------------------------------------- |
@@ -135,5 +147,20 @@ Find here the description of each lecture, associated material and speaker's det
 | by [*Thomas Yeo*](https://sites.google.com/view/yeolab), [Twitter](https://twitter.com/bttyeo) & [Google Scholar](https://scholar.google.com/citations?user=BOUzsU8AAAAJ&hl) |
 |                                                              |
 
+---
 
-This page is [here](https://cyclotronresearchcentre.github.io/OHBM2020_ML4NI/).
+### Engagement Lounge, aka. "Questions and Answers"
+
+The Engagement Lounge will be open on **Friday July 17 at 4.00H New York, 10.00H Paris, 16.00H Beijing**. Most speakers should be around to answer your questions and discuss what comes up.
+
+We will use this virtual [WebEx meeting room](https://uliege.webex.com/uliege/j.php?MTID=m316d12b7d35756777730ba22ff15e727) for the general discussion. 
+Plus the following topic specific virtual meeting rooms, as organized by lecturer:
+
+- [Emmanuele's room](https://edu.meet.garr.it/ml4ni) for his "[How do we test our hypothesis? A Bayesian approach.](#5-how-do-we-test-our-hypothesis-a-bayesian-approach)" lecture;
+- [Valeria's room](https://nus-sg.zoom.us/j/4712338228?pwd=NFg3OHhGaTQwazN4WHp1ckNaOHFQdz09) for her "[Undefined labels? Try unsupervised approaches!](#7-undefined-labels-try-unsupervised-approaches)" lecture;
+- [Ninon's room](https://icm-institute.zoom.us/j/92456800626?pwd=RmZMYm9iNDRkMDVQN1JST0ZyZjlTUT09) for her "[From machine learning to deep learning, how do we ensure objective and reproducible evaluations?](#9-from-machine-learning-to-deep-learning-how-do-we-ensure-objective-and-reproducible-evaluations)" lecture.
+
+
+---
+
+The rendering of this page is [here](https://cyclotronresearchcentre.github.io/OHBM2020_ML4NI/).
